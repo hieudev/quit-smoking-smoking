@@ -8,8 +8,8 @@ tags:
   - readability
   - standard
 header:
-  overlay_image: /assets/images/anise-1971492_1280.jpg
-  overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_image: /assets/images/crocus-2146535_1280.jpg
+  # overlay_filter: rgba(255, 0, 0, 0.5)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"
