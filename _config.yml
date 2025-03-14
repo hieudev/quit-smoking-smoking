@@ -64,7 +64,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/french-bulldog-7514725_1280.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
