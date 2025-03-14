@@ -16,14 +16,14 @@
 locale: es
 title: QSS
 subtitle: Quit Smoking Smoking
-name: hieudev
+name: Schroodinger
 email: quitsmokingsmokingteam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sencillamente se trata de dejar de fumar fumando un a mezcla equilibrada de hierbas. Puede ser cualquiera, yo te propongo la mía.
+  Sencillamente se trata de dejar de fumar fumando un a mezcla equilibrada de hierbas. Puede ser cualquiera, aquí ofrezco la mía.
 url: "https://quitsmokingsmoking.com"
 
-twitter_username: schroodinger
-github_username: schroodinger
+twitter_username: Schroodinger
+github_username: Schroodinger
 minimal_mistakes_skin: contrast # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
