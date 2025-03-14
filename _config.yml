@@ -22,8 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Sencillamente se trata de dejar de fumar fumando un a mezcla equilibrada de hierbas. Puede ser cualquiera, yo te propongo la mía.
 url: "https://quitsmokingsmoking.com"
 
-twitter_username: tname
-github_username: gname
+twitter_username: schroodinger
+github_username: schroodinger
 minimal_mistakes_skin: contrast # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
@@ -67,19 +67,27 @@ author:
   name   : "Schroodinger"
   avatar : "/assets/images/schroodingerblend.png"
   bio    : "Original blender since 1955"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  # links:
+  #   - label: "Website"
+  #     icon: "fas fa-fw fa-link"
+  #     url: "https://"
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://instagram.com/"
+
+header:
+  overlay_image: /assets/images/anise-1971492_1280.jpg
+  overlay_filter: rgba(255, 0, 0, 0.5)
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
 
 footer:
   links:
