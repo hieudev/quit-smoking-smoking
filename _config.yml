@@ -65,7 +65,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/french-bulldog-7514725_1280.jpg"
+  avatar : "/assets/images/schroodingerblend.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
@@ -112,6 +112,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+atom_feed:
+  hide: true
 
 category_archive:
   type: liquid
