@@ -2,12 +2,14 @@
 title: "Welcome to Jekyll!"
 date: 1955-04-18T15:34:30-04:00
 categories:
-  - blog
+  - Blog
 tags:
   #- Jekyll
   #- update
   - template
 header:
+  teaser: /assets/images/crocus-2146535_1280.jpg
+
   overlay_image: /assets/images/crocus-2146535_1280.jpg
 ---
 

@@ -9,6 +9,7 @@ tags:
   #- standard
   - template
 header:
+  teaser: /assets/images/crocus-2146535_1280.jpgg
   overlay_image: /assets/images/crocus-2146535_1280.jpg
   # overlay_filter: rgba(255, 0, 0, 0.5)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
