@@ -20,7 +20,7 @@ name: Schroodinger
 email: quitsmokingsmokingteam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sencillamente se trata de dejar de fumar fumando un a mezcla equilibrada de hierbas. Puede ser cualquiera, aquí ofrezco la mía.
-url: "https://quitsmokingsmoking.com"
+# url: "https://quitsmokingsmoking.com"
 
 twitter_username: Schroodinger
 github_username: Schroodinger
