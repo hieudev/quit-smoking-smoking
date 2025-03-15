@@ -4,8 +4,8 @@ date: 1955-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  #- Jekyll
+  #- update
   - template
 header:
   overlay_image: /assets/images/crocus-2146535_1280.jpg

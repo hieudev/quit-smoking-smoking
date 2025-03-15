@@ -4,9 +4,9 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  #- Post Formats
+  #- readability
+  #- standard
   - template
 header:
   overlay_image: /assets/images/crocus-2146535_1280.jpg
