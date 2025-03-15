@@ -8,6 +8,14 @@ tags:
   #- readability
   #- standard
   - template
+header:
+  teaser: /assets/images/crocus-2146535_1280.jpgg
+  overlay_image: /assets/images/crocus-2146535_1280.jpg
+  # overlay_filter: rgba(255, 0, 0, 0.5)
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "Lo quiero ya"
+      url: "https://unsplash.com"
 ---
 
 This post has been updated and should show a modified date if used in a layout.
