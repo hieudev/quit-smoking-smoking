@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Instrucciones de uso"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
