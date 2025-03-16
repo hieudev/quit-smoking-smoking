@@ -12,7 +12,7 @@ tags:
 header:
   teaser: /assets/images/wild-flower-7149298_1280.jpg
   overlay_image: /assets/images/wild-flower-7149298_1280.jpg
-  overlay_filter: rgba(0, 0, 0, 0.5)
+  overlay_filter: rgba(0, 0, 0, 0.2)
   # overlay_filter: rgba(255, 0, 0, 0.5)
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
