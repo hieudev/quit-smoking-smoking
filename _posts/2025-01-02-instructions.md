@@ -18,7 +18,7 @@ header:
       url: "https://unsplash.com"
 ---
 
-Instrucciones:
+Instrucciones y recomendaciones
 
 <!--more-->
 
@@ -28,7 +28,7 @@ Primero te tienes de convencer de que lo vas a intentar seriamente. Si no te sie
 
 Resérvate 3 o 4 días para ti, son lo días más difíciles. Unos días de tranquilidad y paz sería lo deseable. Esos días evita tener nicotina cerca. Evita también compañías nicotínicas.
 
-A partir de ahora sólo fuma la mezcla. Fuma lo mínimo necesario pero suficiente. En cada caja hay para unos 30 liados, 5 cada día los primeros 3 días, luego unos 2 al día durante una semana. Cuantos menos mejor. Si ves que puedes quedarte corto, asegura el suministro. Si se te acaba y no consigues mezcla, ataca tu despensa, sector infusiones. No te acerques a la nicotina o volverás a la casilla de salida.
+A partir de ahora sólo fuma la mezcla. Fuma lo mínimo necesario pero suficiente. En cada caja hay para unos 30 liados, aproximadamente unos 5 cada día los primeros 3 días, luego unos 2 al día durante una semana. Cuantos menos mejor. Si ves que puedes quedarte corto, asegura el suministro. Si se te acaba y no consigues mezcla, ataca tu despensa, sector infusiones. No te acerques a la nicotina o volverás a la casilla de salida.
 
 A los 3 o 4 días, notarás que el mono va reduciendo. No importa si reduces o no la cantidad de liados. Al no tener nicotina te cansarán pronto y los aborrecerás a la par que el tabaco.
 
