@@ -6,7 +6,7 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.2)
   actions:
     - label: "Lo quiero ya"
-      url: "/404.md"
+      url: "/purchase.md"
 ---
 
 Paso tiempo investigando las plantas a mi alcance. Tengo un pequeño laboratorio donde puedo secar, humedecer y crear mezclas nuevas. 
