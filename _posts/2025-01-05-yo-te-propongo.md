@@ -1,5 +1,3 @@
-
-
 ---
 title: "Yo te propongo"
 excerpt_separator: "<!--more-->"
