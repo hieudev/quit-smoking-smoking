@@ -17,7 +17,7 @@ header:
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Lo quiero ya"
-      url: "/404.md"
+      url: "/purchase/"
 ---
 
 

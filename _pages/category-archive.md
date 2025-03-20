@@ -8,5 +8,5 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.2)
   actions:
     - label: "Lo quiero ya"
-      url: "/purchase.md"
+      url: "/purchase/"
 ---
