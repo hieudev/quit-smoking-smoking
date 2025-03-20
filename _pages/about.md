@@ -9,4 +9,4 @@ header:
       url: "https://unsplash.com"
 ---
 
-Paso tiempo investigando las propiedades de las plantas a mi alcance. Tengo un pequeño laboratorio donde puedo secar, humedecer y crear mezclas nuevas. Tengo una colección de hierbas infinita...
+Paso tiempo investigando las plantas a mi alcance. Tengo un pequeño laboratorio donde puedo secar, humedecer y crear mezclas nuevas. 
