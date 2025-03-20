@@ -1,4 +1,4 @@
 ---
-permalink: /purchase.md
-redirect_to: /purchase.md
+permalink: /purchase/
+redirect_to: /404/
 ---
