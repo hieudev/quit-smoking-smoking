@@ -1,5 +1,5 @@
 ---
-title: "Nuevos enfoques y ideas creativas"
+title: "Nuevos enfoques e ideas creativas"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
