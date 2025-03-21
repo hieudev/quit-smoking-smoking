@@ -1,5 +1,5 @@
 ---
-title: "Te quiero"
+title: "Nuevos enfoques y ideas creativas"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -10,8 +10,8 @@ tags:
   - main
   - personal
 header:
-  teaser: /assets/images/flowers-7874688_1280.jpg
-  overlay_image: /assets/images/flowers-7874688_1280.jpg
+  teaser: /assets/images/knapweed-1388612_1280.jpg
+  overlay_image: /assets/images/knapweed-1388612_1280.jpg
   overlay_filter: rgba(0, 0, 0, 0.2)
   # overlay_filter: rgba(255, 0, 0, 0.5)
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -20,13 +20,11 @@ header:
       url: "/purchase/"
 ---
 
-Ya lo habrás escuchado.
+Más allá de las hierbas y más allá de dejar de fumar
 
 <!--more-->
 
 
-
-Nuevos enfoques: Más allá de las hierbas
 
 1. El enfoque mindfulness: Fumar con conciencia
 Una forma innovadora de usar la mezcla de hierbas es combinarla con técnicas de mindfulness. En lugar de fumar de manera automática, tómate un momento para concentrarte en la experiencia: el olor de las hierbas, la sensación del humo en tu boca, el ritmo de tu respiración. Esto no solo te ayuda a reducir la ansiedad, sino que también te permite disfrutar del momento presente. Fumar se convierte en un acto de autocuidado, no en una adicción.
@@ -37,7 +35,7 @@ Una forma innovadora de usar la mezcla de hierbas es combinarla con técnicas de
 3. El enfoque ecológico: Cultiva tus propias hierbas
 Si te apasiona la naturaleza, ¿por qué no cultivar tus propias hierbas? Tener un pequeño jardín de menta, manzanilla o lavanda no solo te proporciona los ingredientes para tu mezcla, sino que también te conecta con la tierra y te da una sensación de logro. Además, es una forma sostenible y económica de mantener tu hábito libre de nicotina.
 
-Conceptos creativos: Más allá de dejar de fumar
+
 
 1. La mezcla como herramienta de transición
 La mezcla de hierbas no tiene que ser solo para dejar de fumar. También puede ser una herramienta para reducir otros hábitos no saludables, como el consumo excesivo de alcohol o la comida emocional. Al mantener las manos y la boca ocupadas, la mezcla puede ayudarte a superar momentos de ansiedad o estrés sin recurrir a comportamientos dañinos.
