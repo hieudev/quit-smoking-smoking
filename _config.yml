@@ -105,7 +105,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: false
+      read_time: true
       comments: false
       share: true
       related: true
@@ -116,7 +116,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
 
       # header:
       #   overlay_image: /assets/images/anise-1971492_1280.jpg
