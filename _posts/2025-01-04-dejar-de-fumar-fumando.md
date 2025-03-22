@@ -22,7 +22,7 @@ header:
 
 
 
-"Dejar de fumar fumando: usa una mezcla de hierbas natural. Yo tengo la mía, tú crea la tuya y libérate del tabaco para siempre."
+Dejar de fumar fumando: usa una mezcla de hierbas natural.
 
 <!--more-->
 
@@ -44,16 +44,7 @@ Salvia: Se dice que ayuda a reducir los antojos de nicotina.
 
 La idea es que cada persona pueda experimentar con diferentes combinaciones hasta encontrar la que mejor se adapte a sus necesidades y preferencias.
 
-3. Personalización: "Yo tengo la mía, tú crea la tuya"
-Este enfoque fomenta la personalización. No existe una mezcla única que funcione para todos, ya que cada persona tiene diferentes gustos, necesidades y niveles de dependencia al tabaco. Algunos beneficios de personalizar tu propia mezcla incluyen:
-
-Adaptabilidad: Puedes ajustar las proporciones de las hierbas según tus preferencias (más menta para un sabor fresco, más manzanilla para relajarte, etc.).
-
-Empoderamiento: Crear tu propia mezcla te da un sentido de control sobre el proceso, lo que puede aumentar tu motivación para dejar de fumar.
-
-Experimentación: Probar diferentes combinaciones puede hacer que el proceso sea más interesante y menos monótono.
-
-4. El proceso gradual: Liberarse del tabaco para siempre
+3. El proceso gradual: Liberarse del tabaco para siempre
 El objetivo final es dejar de fumar de manera definitiva, pero este método propone un camino gradual. Aquí hay algunas etapas clave:
 
 Sustitución: Reemplazar los cigarrillos tradicionales por la mezcla de hierbas. Esto reduce la ingesta de nicotina y otros químicos dañinos.
@@ -64,7 +55,7 @@ Liberación: Llegar a un punto en el que ya no se depende del ritual de fumar, n
 
 Este enfoque gradual puede ser menos estresante que dejar de fumar de golpe, lo que aumenta las posibilidades de éxito a largo plazo.
 
-5. Beneficios adicionales
+4. Beneficios adicionales
 Además de ayudar a dejar de fumar, este método tiene otros beneficios:
 
 Salud respiratoria: Al no inhalar nicotina y alquitrán, los pulmones comienzan a recuperarse.
@@ -75,7 +66,7 @@ Conciencia ecológica: Muchas hierbas se pueden cultivar en casa, reduciendo el 
 
 Bienestar mental: El proceso de crear y experimentar con mezclas puede ser terapéutico y relajante.
 
-6. Cómo empezar
+5. Cómo empezar
 Si estás interesado en probar este método, aquí tienes algunos pasos para comenzar:
 
 Investiga: Aprende sobre las propiedades de diferentes hierbas y cómo pueden ayudarte.
@@ -86,5 +77,5 @@ Establece metas: Define un plan gradual para reducir tu dependencia al tabaco.
 
 Busca apoyo: Comparte tu experiencia con amigos o únete a comunidades en línea de personas que están dejando de fumar.
 
-7. Conclusión
+6. Conclusión
 "Dejar de fumar fumando" es un enfoque innovador y personalizable que combina el poder de las hierbas naturales con un proceso gradual para abandonar el tabaco. Al ofrecer una alternativa más saludable y empoderar a las personas para crear sus propias mezclas, este método no solo ayuda a liberarse del tabaco, sino que también promueve un estilo de vida más consciente y saludable.
