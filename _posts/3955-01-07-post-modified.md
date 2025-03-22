@@ -14,7 +14,7 @@ header:
   # overlay_filter: rgba(255, 0, 0, 0.5)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-    - label: "Lo quiero ya"
+    - label: "Lo quiero"
       url: "https://unsplash.com"
 ---
 

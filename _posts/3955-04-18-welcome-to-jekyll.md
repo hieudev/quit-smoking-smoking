@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/crocus-2146535_1280.jpg
   
   actions:
-    - label: "Lo quiero ya"
+    - label: "Lo quiero"
       url: "https://unsplash.com"
 ---
 
