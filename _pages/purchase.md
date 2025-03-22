@@ -1,4 +1,4 @@
 ---
 permalink: /purchase/
-redirect_to: /soldout/
+redirect_to: /sold-out/
 ---
