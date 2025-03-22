@@ -2,7 +2,7 @@
 title: "Sold Out"
 excerpt: "Out of stock"
 sitemap: false
-permalink: /soldout.html
+permalink: /soldout/
 ---
 
 Sorry, but we have run out of stock. Please try the next days.
