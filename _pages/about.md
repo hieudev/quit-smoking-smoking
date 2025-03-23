@@ -14,3 +14,5 @@ Desde que tengo memoria, las plantas han sido una parte fundamental de mi vida. 
 Todo cambió un día bastante casual, aunque resultó ser un punto de inflexión en mi vida. Ese día, me quedé sin tabaco. No era algo planeado, simplemente ocurrió. En lugar de salir corriendo a comprar más, decidí probar algo diferente: sustituí el cigarrillo por unas hierbas que tenía en casa, las mismas que mi abuela me enseñó a usar años atrás. Al principio, fue más por curiosidad que por convicción, pero ese pequeño gesto cambió todo. Me di cuenta de que podía mantener el ritual de fumar sin los efectos dañinos de la nicotina. Aquel día, sin saberlo, di el primer paso hacia una vida sin tabaco.
 
 Lo que comenzó como una solución improvisada se convirtió en un método que no solo me ayudó a mí, sino que ahora comparto con otros que buscan liberarse del hábito de fumar. Esta experiencia no solo cambió mi vida, sino que también me inspiró a ayudar a otros a encontrar su propio camino hacia una vida sin tabaco.
+
+[Contacto](mailto:quitsmokingsmokigteam@gmail.com)
