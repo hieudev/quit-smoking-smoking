@@ -3,12 +3,12 @@ title: "Recursos primarios"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
+  - important
 tags:
   #- Post Formats
   #- readability
   #- standard
   - main
-  - personal
 header:
   teaser: /assets/images/anise-1971492_1280.jpg
   overlay_image: /assets/images/anise-1971492_1280.jpg
