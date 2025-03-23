@@ -3,7 +3,7 @@ title: "Recursos primarios"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
-  - important
+  - Important
 tags:
   #- Post Formats
   #- readability
