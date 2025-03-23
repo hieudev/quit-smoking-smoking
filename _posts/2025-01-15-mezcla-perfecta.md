@@ -20,7 +20,7 @@ header:
       url: "/purchase/"
 ---
 
-la mía.
+La mía.
 <!--more-->
 
 
