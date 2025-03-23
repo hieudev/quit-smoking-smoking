@@ -10,8 +10,8 @@ tags:
   - main
   - personal
 header:
-  teaser: /assets/images/knapweed-1388612_1280.jpg
-  overlay_image: /assets/images/knapweed-1388612_1280.jpg
+  teaser: /assets/images/anise-1971492_1280.jpg
+  overlay_image: /assets/images/anise-1971492_1280.jpg
   overlay_filter: rgba(0, 0, 0, 0.2)
   # overlay_filter: rgba(255, 0, 0, 0.5)
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
