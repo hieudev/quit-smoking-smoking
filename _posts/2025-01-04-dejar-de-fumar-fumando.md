@@ -79,3 +79,5 @@ Busca apoyo: Comparte tu experiencia con amigos o únete a comunidades en línea
 
 6. Conclusión
 "Dejar de fumar fumando" es un enfoque innovador y personalizable que combina el poder de las hierbas naturales con un proceso gradual para abandonar el tabaco. Al ofrecer una alternativa más saludable y empoderar a las personas para crear sus propias mezclas, este método no solo ayuda a liberarse del tabaco, sino que también promueve un estilo de vida más consciente y saludable.
+
+[Lo quiero](../../purchase/)

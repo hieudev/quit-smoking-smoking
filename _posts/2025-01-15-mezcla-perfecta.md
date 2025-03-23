@@ -39,3 +39,5 @@ Con el tiempo, la mezcla perfecta comenzó a tomar forma. Era una combinación e
 Hoy, sigo experimentando, ajustando, mejorando. Porque la mezcla perfecta no es un punto final, sino un viaje. Es la búsqueda constante de algo mejor, de algo que me haga sentir bien sin hacerme daño. Y en ese viaje, cada error es una lección, cada acierto es una victoria, y cada mezcla es un paso hacia la libertad.
 
 Porque, al final, la mezcla perfecta no es solo una combinación de hierbas. Es el resultado de mi paciencia, mi curiosidad y mi voluntad de cambiar. Es la prueba de que, con esfuerzo y dedicación, siempre hay una alternativa. Y eso, querido amigo, es lo que hace que valga la pena.
+
+[Lo quiero](../../purchase/)

@@ -43,3 +43,5 @@ Otro hombre que había **dejado de fumar** varias veces, pero siempre recaía en
 Un día, decidió probar algo diferente: una mezcla de hierbas. Al principio, la usaba solo cuando sentía ansiedad, como una forma de engañar a su mente. Pero pronto descubrió que podía fumar la mezcla sin caer en la tentación del tabaco. Era como tener un salvavidas en medio del mar: algo a lo que aferrarse sin hundirse.
 
 Hoy, lleva dos años sin fumar cigarrillos, pero siempre tiene su mezcla a mano. “Es como un seguro contra las recaídas”, dice. “Sé que puedo fumar algo sin volver a la nicotina.” Para él, la mezcla no es solo una alternativa, sino un símbolo de control. Es la prueba de que puede enfrentar el estrés sin rendirse, de que puede tomar decisiones conscientes y de que, al final, siempre hay una salida.
+
+[Lo quiero](../../purchase/)

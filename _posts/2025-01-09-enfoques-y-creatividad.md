@@ -46,3 +46,5 @@ Una vez que hayas superado la dependencia del tabaco, puedes usar la mezcla de h
 
 Reflexión final: Un viaje de transformación.
 Dejar de fumar no es solo un acto de voluntad; es un viaje de transformación personal. Con la mezcla de hierbas, no solo te liberas de la nicotina, sino que también descubres nuevas formas de cuidar de ti mismo y de conectar con los demás. Ya sea a través de historias inspiradoras, enfoques innovadores o conceptos creativos, este método te invita a explorar un camino hacia una vida más saludable y consciente.
+
+[Lo quiero](../../purchase/)

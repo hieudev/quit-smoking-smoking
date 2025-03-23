@@ -37,3 +37,5 @@ Pero esto no es solo sobre ti. Es también sobre ellos. Porque cuando dejas de f
 Así que, sigues siendo sus amigos. Los que fuman y los que no. Los que te apoyan y los que, tal vez, algún día tú inspires. Porque la amistad no se mide en cigarrillos compartidos, sino en momentos genuinos, en respeto mutuo y en la capacidad de aceptar que todos estamos aprendiendo, creciendo y cambiando a nuestro propio ritmo.
 
 Al final, dejar de fumar no es solo un acto de amor propio, sino también una forma de reconectar con los demás desde un lugar más auténtico. Porque cuando respiras mejor, todos a tu alrededor sienten el cambio. Y eso, querido amigo, es lo que hace que valga la pena.
+
+[Lo quiero](../../purchase/)

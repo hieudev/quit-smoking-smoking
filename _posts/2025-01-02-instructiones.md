@@ -39,3 +39,5 @@ A la semana, es posible que sientas alguna tentación de volver a la nicotina, p
 A las dos semanas, la dependencia física habrá desaparecido por completo. Lo que quedará será la dependencia psicológica, pero esta será mucho más fácil de manejar. En este punto, te darás cuenta de que el tabaco y las hierbas son, en el fondo, lo mismo: humo. Y cuando eso ocurra, dejarás ambas cosas definitivamente. Sin embargo, es recomendable mantener la mezcla de hierbas cerca, por si surge alguna tentación en el futuro. No como una necesidad, sino como un recordatorio de que tienes el control.
 
 Este método no es milagroso, pero es efectivo. Te ayuda a desintoxicarte de la nicotina mientras mantienes el ritual de fumar, algo que para muchos es una parte importante del proceso. Y lo mejor de todo es que, al final, te das cuenta de que no necesitas ni el tabaco ni las hierbas. Simplemente, eres libre.
+
+[Lo quiero](../../purchase/)

@@ -38,3 +38,5 @@ Después de los tres días críticos, tu cuerpo comienza a desintoxicarse de la 
 
 4. El control total: Dueño de tus decisiones
 Una de las mayores ventajas de este método es que te devuelve el control sobre tu vida. Después de dos semanas, habrás superado la dependencia física y psicológica del tabaco. En este punto, tú decides cuándo y qué fumar. Si en el futuro te encuentras en una situación social donde sientes la tentación de fumar, puedes optar por la mezcla de hierbas en lugar de un cigarrillo. Esto te permitirá disfrutar del momento sin caer en la adicción.
+
+[Lo quiero](../../purchase/)

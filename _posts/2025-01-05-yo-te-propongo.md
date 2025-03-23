@@ -72,3 +72,5 @@ Toma el control: Decide cuándo y qué fumar, siempre evitando la nicotina.
 Mantén la mezcla a mano para situaciones sociales o momentos de tentación.
 
 Este método no es una solución mágica, pero es una herramienta poderosa para quienes buscan dejar el tabaco de manera gradual y consciente.
+
+[Lo quiero](../../purchase/)

@@ -40,4 +40,6 @@ Porque esta historia no es solo sobre dejar de fumar. Es sobre la lucha interna,
 
 Y eso, al final, es lo más inspirador de todo.
 
+[Lo quiero](../../purchase/)
+
 
