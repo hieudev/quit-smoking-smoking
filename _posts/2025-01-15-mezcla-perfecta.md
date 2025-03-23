@@ -20,8 +20,7 @@ header:
       url: "/purchase/"
 ---
 
-y la de todos.
-
+la mía.
 <!--more-->
 
 
