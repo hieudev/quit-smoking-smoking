@@ -19,6 +19,7 @@ header:
     - label: "Lo quiero"
       url: "/purchase/"
 ---
+El Mortadelo herbal.
 
 <!--more-->
 

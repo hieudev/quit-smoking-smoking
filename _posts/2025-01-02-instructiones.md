@@ -20,7 +20,7 @@ header:
       url: "/purchase/"
 ---
 
-Instrucciones y recomendaciones
+Instrucciones y recomendaciones.
 
 <!--more-->
 

@@ -20,7 +20,7 @@ header:
       url: "/purchase/"
 ---
 
-Inspiración para dejar de fumar
+Inspiración para dejar de fumar.
 
 <!--more-->
 

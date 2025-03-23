@@ -20,7 +20,7 @@ header:
       url: "/purchase/"
 ---
 
-Yo te propongo que fumes hierbas sin nicotina
+Yo te propongo que fumes hierbas sin nicotina.
 
 <!--more-->
 

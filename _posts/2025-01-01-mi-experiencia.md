@@ -18,10 +18,11 @@ header:
     - label: "Lo quiero"
       url: "/purchase/"
 ---
+El cese.
 
 <!--more-->
 
-Dejar de fumar no fue algo que planificara ni que siguiera un método estructurado. Simplemente sucedió, casi por casualidad, y de una manera que nunca imaginé que sería posible. No era un fumador empedernido, o al menos no me veía como tal. Fumaba tres o cuatro cigarrillos al día, algunos con saborizantes, otros no, pero todos formaban parte de un ritual inquebrantable. Uno al empezar el día, otro al terminar la jornada, uno antes de dormir y, a veces, uno más como recompensa después de una tarea complicada. No fumaba en exceso, pero esos cigarrillos eran pilares en mi vida. Sin ellos, sentía que todo se desmoronaría. Los amaba, creía que siempre estarían ahí.
+Dejar de fumar no fue algo que planificara ni que siguiera un método estructurado. Simplemente sucedió, casi por casualidad, y de una manera que nunca imaginé que sería posible. No era un fumador empedernido, o al menos no me veía como tal. Lo hice durante más de 20 años. Fumaba tres o cuatro cigarrillos al día, algunos con saborizantes, otros no, pero todos formaban parte de un ritual inquebrantable. Uno al empezar el día, otro al terminar la jornada, uno antes de dormir y, a veces, uno más como recompensa después de una tarea complicada. No fumaba en exceso, pero esos cigarrillos eran pilares en mi vida. Sin ellos, sentía que todo se desmoronaría. Los amaba, creía que siempre estarían ahí.
 
 Hubo veces en las que intenté dejarlo. Enfermé en varias ocasiones, y cada vez pensé que era el momento perfecto para abandonar el hábito. Pero siempre recaía. Cada noche me acostaba con la firme decisión de no fumar más, y cada mañana, casi sin pensarlo, encendía uno. Incluso logré dejarlo durante una semana en un par de ocasiones, y una vez aguanté un mes entero. Pero al final, siempre volvía. Era como caminar por una cuerda floja: un paso en falso y todo se venía abajo. La ansiedad, la falta de concentración, la sensación de que algo me faltaba… Era agotador.
 
