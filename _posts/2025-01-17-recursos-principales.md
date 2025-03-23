@@ -15,9 +15,9 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.2)
   # overlay_filter: rgba(255, 0, 0, 0.5)
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "Lo quiero"
-      url: "/purchase/"
+#   actions:
+#     - label: "Lo quiero"
+#       url: "/purchase/"
 ---
 
 Si no lo has hecho todavía, empieza por aquí.
