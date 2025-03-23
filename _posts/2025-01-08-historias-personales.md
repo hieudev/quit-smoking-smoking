@@ -24,7 +24,7 @@ Inspiración para dejar de fumar
 
 <!--more-->
 
-**La historia del fumador social**
+**La historia del fumador social.**
 Había alguien que siempre había sido un fumador social. Para esa persona, los cigarrillos eran sinónimo de reuniones con amigos, tardes de café y momentos de relax después del trabajo. Era el tipo que encendía un cigarrillo mientras reía en una terraza, o que compartía uno en una fiesta, como si fuera parte natural de la conversación. El tabaco era un puente entre las personas, una excusa para salir al balcón y hablar de la vida, de los sueños, de las penas. Era el ritual de encender, inhalar y exhalar, mientras el humo se mezclaba con las risas y las confesiones.
 
 Sin embargo, un día se dio cuenta de que ya no fumaba solo en situaciones sociales. El hábito se había colado en su vida diaria: un cigarrillo al despertar, otro después de comer, otro más antes de dormir. Fue entonces cuando se preguntó: "¿Cuándo dejé de controlar esto? ¿Cuándo se convirtió en algo que necesito y no en algo que elijo?"
@@ -33,7 +33,7 @@ Decidió probar algo diferente: una mezcla de hierbas como alternativa. Al princ
 
 Hoy, sigue fumando su mezcla en reuniones sociales, pero ya no lleva cigarrillos en el bolsillo. Ha recuperado el control, y eso le hace sentir libre.
 
-**La historia de la madre que quería estar sana para sus hijos**
+**La historia de la madre que quería estar sana para sus hijos.**
 Hubo una mujer que había fumado durante más de 15 años. Para ella, el cigarrillo era una compañía en los momentos de soledad, una forma de calmar la ansiedad y una excusa para tomarse un respiro en medio del caos de la vida diaria. Era su pequeño escape, su momento de paz en un mundo lleno de responsabilidades. Pero un día, su hijo pequeño le preguntó por qué siempre olía a humo. Esa pregunta inocente le golpeó como un puño en el estómago. Se dio cuenta de que no solo estaba dañando su salud, sino que también estaba dejando una huella en sus hijos.
 
 Esa noche, mientras miraba a sus hijos dormir, decidió que tenía que cambiar. Pero dejar de fumar de golpe le parecía imposible. Había intentado antes y había fracasado. Sabía que necesitaba algo más, algo que le permitiera hacer la transición sin sentir que estaba perdiendo una parte de sí misma. Un amigo le habló de una mezcla de hierbas, y decidió probarla.
@@ -42,7 +42,7 @@ Los primeros días fueron difíciles. Extrañaba la sensación de la nicotina, p
 
 Hoy, sus hijos ya no le preguntan por qué huele a humo. En cambio, le preguntan por las plantas que cultiva en el jardín. Y ella sonríe, sabiendo que ha elegido un camino mejor.
 
-**La historia del exfumador que volvió a tomar el control**
+**La historia del exfumador que volvió a tomar el control.**
 Había un hombre que había dejado de fumar varias veces, pero siempre recaía en momentos de estrés. Para él, el cigarrillo era como un viejo amigo tóxico: sabía que no le hacía bien, pero no podía evitarlo. Cada vez que la vida le ponía contra las cuerdas, volvía a caer. Era un ciclo interminable de intentos y fracasos, de promesas rotas y culpa acumulada.
 
 Un día, decidió probar algo diferente: una mezcla de hierbas. Al principio, la usaba solo cuando sentía ansiedad, como una forma de engañar a su mente. Pero pronto descubrió que podía fumar la mezcla sin caer en la tentación del tabaco. Era como tener un salvavidas en medio del mar: algo a lo que aferrarse sin hundirse.
