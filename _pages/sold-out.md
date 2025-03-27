@@ -5,6 +5,6 @@ sitemap: false
 permalink: /sold-out/
 ---
 
-Sorry, but we have run out of stock. Please try the next days.
+We're sorry, but we're out of stock. Please try again in the next few days.
 
 [quitsmokingsmokigteam@gmail.com](mailto:quitsmokingsmokigteam@gmail.com)
