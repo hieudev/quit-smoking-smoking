@@ -1,6 +1,6 @@
 ---
 title: "Nuevos enfoques e ideas creativas"
-nid: 9
+nid: "9"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

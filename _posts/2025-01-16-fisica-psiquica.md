@@ -1,6 +1,6 @@
 ---
 title: "Dependencia"
-nid: 16
+nid: "16"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

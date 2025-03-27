@@ -1,6 +1,6 @@
 ---
 title: "Historias personales"
-nid: 8
+nid: "8"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

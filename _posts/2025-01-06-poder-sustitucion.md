@@ -1,6 +1,6 @@
 ---
 title: "El poder de la sustitución"
-nid: 6
+nid: "6"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

@@ -1,6 +1,6 @@
 ---
 title: "Recursos primarios"
-nid: 17
+nid: "17"
 excerpt_separator: "<!--more-->"
 categories:
   - Important

@@ -1,6 +1,6 @@
 ---
 title: "No tiene que ser hoy"
-nid: 12
+nid: "12"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
