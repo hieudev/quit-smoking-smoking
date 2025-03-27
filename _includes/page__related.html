@@ -5,7 +5,7 @@
   <div class="grid__wrapper" id="posts-container"><!-- añadido id para ejecutarlo en script -->
     
     <!-- Filtrar 4 publicaciones aleatorias usando JavaScript -->
-    <script>
+    <!--script>
       const postsContainer = document.getElementById('posts-container');
       if (postsContainer) {
         const posts = Array.from(postsContainer.children);  // Convertir los elementos hijos del contenedor a un array
@@ -24,7 +24,7 @@
         postsContainer.innerHTML = '';  // Limpiar el contenedor
         selectedPosts.forEach(post => postsContainer.appendChild(post));  // Agregar publicaciones seleccionadas
       }
-    </script>
+    </script-->
 
     {% for post in posts %}
       <div class="post">
