@@ -7,7 +7,7 @@
 
     {% for post in posts %} <!-- reversed order if javascript disabled -->
       {% if post.id == page.id %}{% continue %}{% endif %}
-      {% if count < 4 %} <!-- Mostrar solo las primeras 4 publicaciones -->
+      {% if count < 6 %} <!-- Mostrar solo las primeras 4 publicaciones -->
 
         {% include archive-single.html type="grid" %}
         {% assign count = count | plus: 1 %} <!-- Incrementar contador -->
