@@ -2,7 +2,7 @@
 title: "Canción de humo y brea"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Songs
 tags:
   #- Post Formats
   #- readability

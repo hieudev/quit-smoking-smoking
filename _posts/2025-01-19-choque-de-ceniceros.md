@@ -2,7 +2,7 @@
 title: "Choque de ceniceros"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Songs
 tags:
   #- Post Formats
   #- readability
