@@ -20,7 +20,7 @@ header:
       url: "/purchase/"
 ---
 
-Crónicas ed la Niebla Negra: Las Cenizas del Reino
+Crónicas de la Niebla Negra: Las Cenizas del Reino
 
 <!--more-->
 
@@ -231,3 +231,122 @@ Código en línea con ``` para hashtags
 Compatible con GitHub, Obsidian y editores Markdown
 
 Secciones claramente separadas con ---
+
+# Canción de Humo y Brea  
+*(Crónicas completas de la Niebla Negra)*  
+
+## Libro Quinto: Los Susurros de la Brea  
+
+### Capítulo 10: El Muro de los Fumadores Arrepentidos  
+
+Los salvajes descubrieron que los Caminantes Blancos **odiaban el humo** (les recordaba al fuego valyrio). Su nueva estrategia:  
+
+- Bombas de alquitrán ardiente  
+- Flechas envueltas en hojas de tabaco mojadas en brea  
+- Tormund liderando el ataque con un hacha en una mano y una pipa en la otra  
+
+> *"¡Si vamos a morir, que sea con los pulmones llenos de humo!"* gritaba mientras cargaba.  
+
+### Capítulo 11: La Viuda del Tabernero  
+
+Lady Stoneheart no solo colgaba Freyes:  
+
+- Quemaba sus plantaciones de tabaco  
+- Envenenaba barriles de vino con nicotina  
+- Dejaba cadáveres con el mensaje: *"La justicia huele a cenizas"*  
+
+---
+
+## Libro Sexto: El Trono de Hierba Santa  
+
+### Capítulo 12: El Juicio de la Hierbamala  
+
+Samwell Tarly descubrió en la Ciudadela:  
+
+1. **Manuscritos valyrios** con recetas para purificar humos  
+2. **La verdad sobre "El Dragón de Hierbas"**:  
+   - Mezcla de menta de las Islas del Verano  
+   - Corteza de árbol-dragón  
+   - Polvo de vidriagón como filtro  
+
+> *"Los maestres prefieren la tradición... pero la tradición mata"*  
+
+### Capítulo 13: La Última Brizna  
+
+En Altojardín:  
+
+- Olenna Tyrell cultivaba **rosas de tabaco** en invernaderos  
+- Loras, en su lecho de muerte:  
+  - Rechazaba la leche de amapola  
+  - Fumaba una mezcla de amapola real y jazmín  
+
+> *"Si voy a morir, que sea oliendo a jardín en llamas"*  
+
+---
+
+## Libro Séptimo: Tormenta de Ceniceros  
+
+### Capítulo 14: El Banquete de los Condenados  
+
+En Desembarco del Rey:  
+
+| Personaje       | Vicio                | Destino                  |
+|-----------------|---------------------|--------------------------|
+| Cersei         | Tabaco de Qarth     | Asfixiada por su propio humo |
+| Euron          | Brea líquida        | Pulmones convertidos en cristal |
+| Bronn          | Cigarrillos de oro  | Compra la tabacalera real |
+
+### Capítulo 15: El Último Exhalo  
+
+Bran ve el futuro:  
+
+- **Dragones** usados como mecheros gigantes  
+- **Invernalia** con calefacción por pipas de vapor  
+- **Arya** navegando al oeste con una pipa llena de:  
+  - Tabaco de los Hombres sin Rostro  
+  - Veneno de la Hija de la Tormenta  
+
+> *"Valar Dohaeris... pero primero valar exhalar"*  
+
+---
+
+## Apéndices  
+
+### Hierbas Notables de Poniente  
+
+1. **Tabaco de Dorne**  
+   - Sabor: picante como las serpientes de arena  
+   - Efecto: adormece la lengua pero quema el alma  
+
+2. **Brea del Muro**  
+   - Usada por la Guardia para pipas de hielo  
+   - Hace toser hasta a los muertos  
+
+3. **Niebla de Braavos**  
+   - Vaporizador de agua salada  
+   - Favorecido por los Hombres sin Rostro  
+
+---
+
+**FIN DE LA CRÓNICA**  
+
+🔥 *"Cuando juegas al juego de los cigarros, ganas o mueres... pero siempre dejas rastro"* 🚬  
+
+`#AllMenMustVape` `#TheNorthRemembersToQuit`  
+
+[⬆ Volver al inicio](#canción-de-humo-y-brea)
+Mejoras respecto a la versión anterior:
+
+Estructura completa con 7 libros y 15 capítulos
+
+Tabla Markdown para el banquete de los condenados
+
+Apéndices con lista de hierbas
+
+Enlace interno para volver al inicio
+
+Hashtags temáticos mejorados
+
+Diálogos más pulidos y acordes al tono de Martin
+
+Metáforas extendidas (dragones como mecheros, etc.)

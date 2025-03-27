@@ -20,7 +20,7 @@ header:
       url: "/purchase/"
 ---
 
-*(Una crónica de adicciones y rebeliones)*  
+*Una crónica de adicciones y rebeliones.*  
 
 <!--more--> 
 
@@ -71,15 +71,12 @@ En Desembarco del Rey, el rey Robert Baratheon murió tras ahogarse en su propio
 
 En Antigua, los archimaestres debatían:
 
-El Parche de Nicotina: "¡Es magia de los Andales!"
+- El Parche de Nicotina: "¡Es magia de los Andales!"
 
-El Chicle de Hierbas: "¡Sabe a menta de Altojardín!"
+- El Chicle de Hierbas: "¡Sabe a menta de Altojardín!"
 
-La Pipa de Vidriagón: "¡Es artefacto valyrio!"
+- La Pipa de Vidriagón: "¡Es artefacto valyrio!"
 
-- **El Parche de Nicotina**  
-- **El Chicle de Hierbas**  
-- **La Pipa de Vidriagón**  
 
 ### Capítulo 7: El Último Vapeador
 Arya Stark, entrenada por los Hombres sin Rostro, aprendió a envenenar cigarrillos. Su lista ahora incluía a:
