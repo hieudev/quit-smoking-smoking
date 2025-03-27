@@ -9,9 +9,8 @@
 
     {% for post in posts  %}  
       
-    {% if post.id == page.id %}{% continue %}{% endif %}
-
-        {% include archive-single.html type="grid" %}
+      {% if post.id == page.id %}{% continue %}{% endif %}
+      {% include archive-single.html type="grid" %}
 
     {% endfor %}
   </div>
