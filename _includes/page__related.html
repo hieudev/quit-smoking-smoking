@@ -5,7 +5,7 @@
   <div class="grid__wrapper" id="posts-container"><!--añadido id para ejecutarlo en script -->
     {% assign count = 0 %} <!-- Inicializar contador -->
 
-    {% for post in posts reversed limit:8 %} <!-- reversed order if javascript disabled -->
+    {% for post in posts %} <!-- reversed order if javascript disabled -->
       {% if post.id == page.id %}{% continue %}{% endif %}
       {% if count < 4 %} <!-- Mostrar solo las primeras 4 publicaciones -->
 
