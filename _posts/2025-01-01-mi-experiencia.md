@@ -37,4 +37,4 @@ Pienso que, si hubiera existido alguna ayuda como esta cuando lo intenté antes,
 Dejar de fumar no es solo un acto de voluntad; es un proceso de reconexión contigo mismo. Y aunque al principio pueda parecer difícil, los beneficios son enormes: mejor función cardíaca y pulmonar, menor riesgo de cáncer y otras enfermedades, y un bienestar general que vale la pena. Si estás considerando dejar el tabaco, recuerda que no estás solo. Hay recursos, apoyo y métodos que pueden ayudarte en este camino. Y si decides probar con hierbas, aquí estoy para acompañarte.
 
 
-[Lo quiero](../../purchase/)
+[Lo quiero](/purchase/)
