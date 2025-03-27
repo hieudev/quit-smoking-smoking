@@ -8,8 +8,8 @@
     {% for post in shuffled_posts  %}  -->
 
     {% for post in posts limit:4 %}
-    {% if post.id == page.id %}{% continue %}{% endif %}
-    {% include archive-single.html type="grid" %}
+      {% if post.id == page.id %}{% continue %}{% endif %}
+      {% include archive-single.html type="grid" %}
     {% endfor %}
 
   </div>
