@@ -1,68 +1,12 @@
-{% assign posts = include.posts | where_exp: "post", "post.hidden != true" %} 
+{% assign posts = include.posts | where_exp: "post", "post.hidden != true" %}
 <div class="page__related">
   {% include before-related.html %}
   <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
-  <div class="grid__wrapper" id="posts-container"><!-- añadido id para ejecutarlo en script -->
+  <div class="grid__wrapper" id="posts-container">
     
-    <!-- Filtrar 4 publicaciones aleatorias usando JavaScript -->
-    <!--script>
-      const postsContainer = document.getElementById('posts-container');
-      if (postsContainer) {
-        const posts = Array.from(postsContainer.children);  // Convertir los elementos hijos del contenedor a un array
-        const totalPosts = posts.length;
-        
-        // Generar 4 números aleatorios únicos entre 0 y totalPosts - 1
-        const randomIndices = new Set();
-        while (randomIndices.size < 4) {
-          randomIndices.add(Math.floor(Math.random() * totalPosts));  // Generar un número aleatorio único
-        }
-        
-        // Seleccionar las publicaciones aleatorias
-        const selectedPosts = Array.from(randomIndices).map(index => posts[index]);
-
-        // Limpiar el contenedor y agregar solo las publicaciones seleccionadas
-        postsContainer.innerHTML = '';  // Limpiar el contenedor
-        selectedPosts.forEach(post => postsContainer.appendChild(post));  // Agregar publicaciones seleccionadas
-      }
-    </script-->
-
-    {% for post in posts %}
-      <div class="post">
-        {% if post.id == page.id %}{% continue %}{% endif %}
-        {% include archive-single.html type="grid" %}
-      </div>
-    {% endfor %}
-  </div>
-  
-  <div><b><a href="../../posts/" rel="nofollow">More...</a></b></div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- {% assign posts = include.posts | where_exp: "post", "post.hidden != true" %}
-<div class="page__related">
-  {% include before-related.html %}
-  <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
-  <div class="grid__wrapper" id="posts-container">   //añadido id para ejecutarlo en script  
     {% assign shuffled_posts = posts | sample: 4 %}
 
-    {% for post in shuffled_posts  %}  // reversed order if javascript disabled  
+    {% for post in shuffled_posts  %}  
       
     {% if post.id == page.id %}{% continue %}{% endif %}
 
@@ -72,7 +16,7 @@
   </div>
   <div><b><a href="../../posts/" rel="nofollow">More...</a></b></div>
 
-  // Script para mezclar posts aleatoriamente  
+  <!-- Script para mezclar posts aleatoriamente  -->
     <script>
       // Mezcla los posts aleatoriamente
       const container = document.getElementById('posts-container');
@@ -83,4 +27,4 @@
       }
     </script>
 
-</div> -->
+</div>
