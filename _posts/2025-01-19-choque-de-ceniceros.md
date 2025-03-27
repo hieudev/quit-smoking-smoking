@@ -1,5 +1,6 @@
 ---
 title: "Choque de ceniceros"
+nid: 19
 excerpt_separator: "<!--more-->"
 categories:
   - Songs

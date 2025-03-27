@@ -1,5 +1,6 @@
 ---
 title: "La mezcla perfecta"
+nid: 15
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

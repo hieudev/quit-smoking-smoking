@@ -1,5 +1,6 @@
 ---
 title: "Mi experiencia"
+nid: 1
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

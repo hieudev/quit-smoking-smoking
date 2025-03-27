@@ -1,5 +1,6 @@
 ---
 title: "Siguen siendo tus amigos"
+nid: 13
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

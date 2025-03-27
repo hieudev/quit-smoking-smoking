@@ -1,6 +1,6 @@
 ---
-title: "El poder de la sustitución"
-nid: 6
+title: "El poder de la sustitución 2 Copia"
+nid: 7
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

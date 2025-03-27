@@ -4,8 +4,9 @@
   <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
   <div class="grid__wrapper" id="posts-container">
 
+    {% assign shuffled_posts = posts | sample: posts.size %}
 
-    {% for post in posts  %}  
+    {% for post in shuffled_posts  %}  
       
     {% if post.id == page.id %}{% continue %}{% endif %}
 
@@ -16,7 +17,7 @@
   <div><b><a href="../../posts/" rel="nofollow">More...</a></b></div>
 
   <!-- Script para mezclar posts aleatoriamente  -->
-    <script>
+    <!-- <script>
       //Mezcla los posts aleatoriamente
       const container = document.getElementById('posts-container');
       if (container) {
@@ -24,6 +25,6 @@
         posts.sort(() => Math.random() - 0.5); // Mezcla aleatoriamente
         posts.forEach(post => container.appendChild(post)); // Vuelve a agregar los posts en orden aleatorio
       }
-    </script>
+    </script> -->
 
 </div>
