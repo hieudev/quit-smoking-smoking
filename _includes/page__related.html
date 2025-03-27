@@ -4,7 +4,7 @@
   <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
   <div class="grid__wrapper" id="posts-container">
 
-    {% assign shuffled_posts = posts | sample: posts.size %}
+    {% assign shuffled_posts = posts | sample: 8 %}
 
     {% for post in shuffled_posts  %}  
       
