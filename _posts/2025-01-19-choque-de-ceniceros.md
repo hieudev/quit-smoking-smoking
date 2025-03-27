@@ -10,8 +10,8 @@ tags:
   - main
   - personal
 header:
-  teaser: /assets/images/grass-6353411_1280.jpg
-  overlay_image: /assets/images/grass-6353411_1280.jpg
+  teaser: /assets/images/grass-7697509_1280.jpg
+  overlay_image: /assets/images/grass-7697509_1280.jpg
   overlay_filter: rgba(0, 0, 0, 0.2)
   # overlay_filter: rgba(255, 0, 0, 0.5)
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
