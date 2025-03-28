@@ -1,10 +1,10 @@
-{% assign posts = include.posts | where_exp: "post", "post.hidden != true" %}
+{% assign posts = include.posts | where_exp: "post", "post.hidden != true", "post.category == page.category" %}
 <div class="page__related">
   {% include before-related.html %}
   <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
   <div class="grid__wrapper" id="posts-container">
 
-    {% assign shuffled_posts = posts | sample: 19 %}
+    {% assign shuffled_posts = posts | sample: 8 %}
 
     {% for post in shuffled_posts  %}  
       
