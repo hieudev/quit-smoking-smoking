@@ -9,7 +9,6 @@ tags:
   #- readability
   #- standard
   - main
-  - personal
 header:
   teaser: /assets/images/grass-6353411_1280.jpg
   overlay_image: /assets/images/grass-6353411_1280.jpg

@@ -9,7 +9,6 @@ tags:
   #- readability
   #- standard
   - main
-  - personal
 header:
   teaser: /assets/images/crocus-2146535_1280.jpg
   overlay_image: /assets/images/crocus-2146535_1280.jpg

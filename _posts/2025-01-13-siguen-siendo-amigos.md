@@ -9,7 +9,6 @@ tags:
   #- readability
   #- standard
   - main
-  - personal
 header:
   teaser: /assets/images/horehound-8457963_1280.jpg
   overlay_image: /assets/images/horehound-8457963_1280.jpg

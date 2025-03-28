@@ -9,7 +9,6 @@ tags:
   #- readability
   #- standard
   - main
-  - guide
 header:
   teaser: /assets/images/wild-flower-7149298_1280.jpg
   overlay_image: /assets/images/wild-flower-7149298_1280.jpg

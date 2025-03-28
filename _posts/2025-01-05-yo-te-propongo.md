@@ -9,7 +9,6 @@ tags:
   #- readability
   #- standard
   - main
-  - personal
 header:
   teaser: /assets/images/poppies-6620611_1280.jpg
   overlay_image: /assets/images/poppies-6620611_1280.jpg

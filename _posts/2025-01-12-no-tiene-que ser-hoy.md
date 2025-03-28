@@ -9,7 +9,6 @@ tags:
   #- readability
   #- standard
   - main
-  - personal
 header:
   teaser: /assets/images/peppermint-7704348_1280.jpg
   overlay_image: /assets/images/peppermint-7704348_1280.jpg

@@ -9,7 +9,6 @@ tags:
   #- readability
   #- standard
   - main
-  - personal
 header:
   teaser: /assets/images/raspberry-bush-5104424_1280.jpg
   overlay_image: /assets/images/raspberry-bush-5104424_1280.jpg
