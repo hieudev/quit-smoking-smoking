@@ -11,7 +11,8 @@
     {% if post.id == page.id %}{% continue %}{% endif %}
 
         {% include archive-single.html type="grid" %}
-        <script>console.log(post.categories + " " + page.categories);</script>
+        Hello {{post.categories}}
+        Hello {{page.categories}}
 
     {% endfor %}
   </div>
