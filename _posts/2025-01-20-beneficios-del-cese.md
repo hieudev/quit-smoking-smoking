@@ -138,3 +138,5 @@ Hay perjuicios en todo, pero en esto vale la pena.
 > "Dejar de fumar es como recuperar un tesoro que nunca supiste que habías perdido: tu salud, tu energía y tu libertad."
 
 `#VidaSinHumo` `#BeneficiosReales` `#SaludRecuperada`
+
+[Lo quiero](../../purchase/)
