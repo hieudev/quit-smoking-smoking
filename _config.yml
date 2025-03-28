@@ -86,8 +86,6 @@ author:
   # jekyll-related-posts settings.
 related_by: categories and tags #random #tags and categories
 related_limit: 6
-related_categories: 6
-related_tags: 6
 
 
 
