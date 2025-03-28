@@ -11,8 +11,8 @@
     {% if post.id == page.id %}{% continue %}{% endif %}
 
         {% include archive-single.html type="grid" %}
-        Hello {{post.categories}}
-        Hello {{page.categories}}
+        {{ post.categories }}
+        {{ page.categories }}
 
     {% endfor %}
   </div>
