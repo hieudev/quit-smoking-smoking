@@ -1,4 +1,4 @@
-{% assign posts = include.posts | where_exp: "post", "post.hidden != true", "post.category == page.category" %}
+{% assign posts = include.posts | where_exp: "post", "post.hidden != true" and "post.category == page.category" %}
 <div class="page__related">
   {% include before-related.html %}
   <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
