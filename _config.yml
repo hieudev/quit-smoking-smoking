@@ -84,8 +84,8 @@ author:
   #     url: "https://instagram.com/"
 
   # jekyll-related-posts settings.
-related_by: categories or tags #random #tags and categories
-related_limit: 6
+related_by: random #random #tags and categories
+related_limit: 8
 
 
 
