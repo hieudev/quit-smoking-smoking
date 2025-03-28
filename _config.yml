@@ -83,6 +83,12 @@ author:
   #     icon: "fab fa-fw fa-instagram"
   #     url: "https://instagram.com/"
 
+  # jekyll-related-posts settings.
+related_by: random #tags and categories
+related_limit: 8
+#related_categories: 1
+#related_tags: 1
+
 
 
 footer:
