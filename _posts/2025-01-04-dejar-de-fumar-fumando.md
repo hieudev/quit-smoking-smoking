@@ -3,7 +3,7 @@ title: "Dejar de fumar fumando"
 nid: "4"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Guia
 tags:
   #- Post Formats
   #- readability

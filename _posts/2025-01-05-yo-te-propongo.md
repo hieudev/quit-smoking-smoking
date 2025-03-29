@@ -3,7 +3,7 @@ title: "Yo te propongo"
 nid: "5"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Guia
 tags:
   #- Post Formats
   #- readability
