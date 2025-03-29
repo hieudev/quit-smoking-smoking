@@ -19,7 +19,7 @@ header:
     - label: "Lo quiero"
       url: "/purchase/"
 ---
-El cese.
+Mi cese.
 
 <!--more-->
 
