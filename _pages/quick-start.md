@@ -13,7 +13,7 @@ header:
 
 **Qué es esto:** Un sitio web con una colección de textos variados en torno al tema de dejar de fumar.
 
-**Qué se vende:** Una trabajada mezcla de hierbas para sustituir al tabaco y en última instancia para acabar con el hábito.
+**Qué se vende:** Una trabajada mezcla de hierbas para sustituir al tabaco con el objetivo final de acabar con el hábito.
 
 **Quienes somos:** Simplemente unos individuales que consiguieron dejar de fumar con este método, que creen en el método y que creen que puede ayudar a otros.
 
