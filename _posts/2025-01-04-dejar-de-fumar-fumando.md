@@ -26,10 +26,10 @@ Dejar de fumar fumando: una mezcla de hierbas natural.
 
 <!--more-->
 
-1. El concepto central: Dejar de fumar fumando
+**El concepto central:** Dejar de fumar fumando
 La idea de "dejar de fumar fumando" puede sonar contradictoria al principio, pero se basa en un enfoque innovador y gradual para abandonar el hábito del tabaco. En lugar de dejar de fumar de golpe (lo que puede generar ansiedad y recaídas), se propone sustituir el cigarrillo tradicional por una alternativa más saludable: una mezcla de hierbas naturales. Este método permite mantener el ritual de fumar, pero sin los efectos nocivos de la nicotina y los químicos del tabaco.
 
-2. La mezcla de hierbas: Una alternativa natural
+**La mezcla de hierbas:** Una alternativa natural
 La clave de este método radica en la mezcla de hierbas. Estas hierbas no contienen nicotina, por lo que no generan adicción, pero pueden proporcionar una experiencia sensorial similar al fumar. Algunas hierbas comunes que se utilizan incluyen:
 
 - Menta: Proporciona una sensación refrescante y puede ayudar a limpiar las vías respiratorias.
@@ -43,7 +43,7 @@ La clave de este método radica en la mezcla de hierbas. Estas hierbas no contie
 - Salvia: Se dice que ayuda a reducir los antojos de nicotina.
 
 
-3. El proceso gradual: Liberarse del tabaco para siempre
+**El proceso gradual:** Liberarse del tabaco para siempre
 El objetivo final es dejar de fumar de manera definitiva, pero este método propone un camino gradual. Aquí hay algunas etapas clave:
 
 - Sustitución: Reemplazar los cigarrillos tradicionales por la mezcla de hierbas. Esto reduce la ingesta de nicotina y otros químicos dañinos.
@@ -54,14 +54,13 @@ El objetivo final es dejar de fumar de manera definitiva, pero este método prop
 
 Este enfoque gradual puede ser menos estresante que dejar de fumar de golpe, lo que aumenta las posibilidades de éxito a largo plazo.
 
-4. Beneficios adicionales
 Además de ayudar a dejar de fumar, este método tiene otros beneficios:
 
 - Salud respiratoria: Al no inhalar nicotina y alquitrán, los pulmones comienzan a recuperarse desde el principio.
 
 - Ahorro económico: Las hierbas suelen ser más económicas que otros métodos.
 
-5. Cómo empezar
+**Cómo empezar**
 Si estás interesado en probar este método, aquí tienes algunos pasos para comenzar:
 
 - Investiga: Aprende sobre las propiedades de diferentes hierbas y cómo pueden ayudarte. En esta web encontrarás información para ir preparándote.
