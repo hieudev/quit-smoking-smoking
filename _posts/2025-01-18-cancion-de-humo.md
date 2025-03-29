@@ -99,3 +99,5 @@ Bran el Roto vio en sus visiones un futuro donde los dragones eran logotipos en 
 🔥🚬 `#ForTheThroneButNotForTheLungs`  
 
 ---
+
+[Lo quiero](../../purchase/)

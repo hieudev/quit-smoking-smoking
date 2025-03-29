@@ -350,3 +350,5 @@ Hashtags temáticos mejorados
 Diálogos más pulidos y acordes al tono de Martin
 
 Metáforas extendidas (dragones como mecheros, etc.)
+
+[Lo quiero](../../purchase/)

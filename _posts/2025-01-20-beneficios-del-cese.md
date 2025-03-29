@@ -19,7 +19,7 @@ header:
     - label: "Lo quiero"
       url: "/purchase/"
 ---
-Hay perjuicios en todo lo que hacemos, pero en esto valen la pena.
+Hay perjuicios en todo lo que hacemos.
 <!--more-->
 # Beneficios de dejar de fumar: Cronología día a día y semana a semana
 
