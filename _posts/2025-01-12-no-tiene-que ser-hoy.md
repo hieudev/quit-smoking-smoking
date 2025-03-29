@@ -3,7 +3,7 @@ title: "No tiene que ser hoy"
 nid: "12"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Personal
 tags:
   #- Post Formats
   #- readability

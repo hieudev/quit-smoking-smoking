@@ -3,7 +3,7 @@ title: "Dependencia"
 nid: "16"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Guide
 tags:
   #- Post Formats
   #- readability

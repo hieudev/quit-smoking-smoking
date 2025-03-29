@@ -3,7 +3,7 @@ title: "Beneficios de dejar de fumar"
 nid: "19"
 excerpt_separator: "<!--more-->"
 categories:
-  - Songs
+  - Guide
 tags:
   #- Post Formats
   #- readability

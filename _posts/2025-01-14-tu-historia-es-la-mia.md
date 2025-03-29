@@ -3,7 +3,7 @@ title: "Tu historia es mi historia"
 nid: "14"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Personal
 tags:
   #- Post Formats
   #- readability
