@@ -11,10 +11,29 @@ header:
       url: "/purchase/"
 ---
 
-**Qué es esto:** Un sitio web con una colección de textos variados en torno al tema de dejar de fumar.
 
-**Qué se vende:** Una trabajada mezcla de hierbas para sustituir al tabaco con el objetivo final de acabar con el hábito.
+## Qué ofrecemos
 
-**Quienes somos:** Simplemente unos individuales que consiguieron dejar de fumar con este método, que creen en el método y que creen que puede ayudar a otros.
+Un sitio web con información práctica y experiencias reales sobre cómo dejar de fumar, centrado en el método de sustitución con hierbas.
+
+## Nuestro producto
+
+Una mezcla de hierbas cuidadosamente seleccionada que:
+- Sustituye el tabaco manteniendo el ritual
+- No contiene nicotina ni aditivos
+- Ayuda a reducir el hábito progresivamente
+
+## Nuestra historia
+
+Somos un grupo de exfumadores que:
+- Dejamos de fumar usando este método
+- Hemos perfeccionado la mezcla durante años
+- Queremos ayudar a otros a conseguirlo
+
+## Por qué confiar en nosotros
+
+- Hablamos desde la experiencia real
+- Transparencia total sobre los ingredientes
+- Apoyo comunitario continuo
 
 [**Lo quiero**](../purchase/)

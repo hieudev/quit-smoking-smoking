@@ -20,7 +20,7 @@ header:
       url: "/purchase/"
 ---
 La mezcla en detalle.
-<!--more--># 
+<!--more-->
 
 
 🌿 **La Mezcla : Composición y Beneficios Reales** 🌿  
