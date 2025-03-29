@@ -1,5 +1,5 @@
 ---
-title: "Por qué esta mezcla concretamente"
+title: "Por qué esta mezcla"
 nid: "21"
 excerpt_separator: "<!--more-->"
 categories:

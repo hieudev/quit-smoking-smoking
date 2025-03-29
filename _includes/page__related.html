@@ -1,13 +1,14 @@
 {% assign posts = include.posts | where_exp: "post", "post.hidden != true" %}
 <div class="page__related">
   {% include before-related.html %}
-  <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}
+  <h2 class="page__related-title">
+    <a href="../../categories/" rel="nofollow">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy..." }}</a>
   </h2>
   <div class="grid__wrapper">
     {% include related.html %}
 
   </div>
-  <h2 class="page__related-title"><a href="../../categories/" rel="nofollow">More...</a></h2>
+  <!--h2 class="page__related-title"><a href="../../categories/" rel="nofollow">More...</a></h2-->
 
 
   <!--p><b><a href="../../posts/" rel="nofollow">More...</a></b></p-->
