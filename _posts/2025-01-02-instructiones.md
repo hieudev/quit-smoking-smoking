@@ -3,7 +3,7 @@ title: "Instrucciones de uso"
 nid: "2"
 excerpt_separator: "<!--more-->"
 categories:
-  - Guia
+  - Guide
 tags:
   #- Post Formats
   #- readability
