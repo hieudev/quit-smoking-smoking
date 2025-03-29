@@ -3,7 +3,7 @@ title: "Preguntas frecuentes"
 nid: "7"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Guide
 tags:
   #- Post Formats
   #- readability

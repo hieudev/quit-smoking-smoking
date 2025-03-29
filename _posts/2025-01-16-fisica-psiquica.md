@@ -46,11 +46,10 @@ Lo más interesante (y desafiante) de la adicción al tabaco es cómo la depende
 
 Esta interacción hace que la adicción al tabaco sea especialmente difícil de superar. No basta con tratar la dependencia física; también hay que abordar los hábitos, las emociones y los contextos sociales que están ligados al tabaco. Es por eso que muchos fumadores intentan dejar de fumar varias veces antes de lograrlo, y es por eso que a menudo se necesita un enfoque multifacético que incluya terapia, apoyo social y, en algunos casos, medicación.
 
-Conclusión: Romper el ciclo
 La adicción al tabaco es una lucha compleja que involucra tanto el cuerpo como la mente. La dependencia física, impulsada por la nicotina, crea una necesidad biológica que es difícil de ignorar. La dependencia psicológica, ligada a los hábitos, las emociones y los contextos sociales, añade otra capa de dificultad al proceso.
 
 Sin embargo, entender esta dualidad es el primer paso para romper el ciclo. Reconocer que la adicción no es solo física ni solo psicológica, sino una combinación de ambas, permite abordarla de manera más efectiva. Ya sea a través de terapia, grupos de apoyo, medicación o simplemente la fuerza de voluntad, es posible superar la adicción al tabaco y recuperar el control de la vida.
 
-Porque, al final, dejar de fumar no es solo un acto de salud, sino un acto de libertad. Es la decisión de romper con un ciclo que nos limita y de abrirnos a una vida más plena, más consciente y más auténtica. Y eso, querido amigo, es lo que hace que valga la pena.
+Porque, al final, dejar de fumar no es solo un acto de salud, sino también un acto de libertad. Es la decisión de romper con un ciclo que nos limita y de abrirnos a una vida más plena, más consciente y más auténtica.
 
 [Lo quiero](../../purchase/)
