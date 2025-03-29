@@ -1,8 +1,10 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "Quick Start"
+    url: /quick-start/
   - title: "Categories"
     url: /categories/
+  - title: "Posts"
+    url: /posts/
   # - title: "Tags"
   #   url: /tags/
   - title: "About"
