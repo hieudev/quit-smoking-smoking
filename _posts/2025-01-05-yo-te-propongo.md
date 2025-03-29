@@ -33,15 +33,15 @@ Aquí es donde entra en juego la mezcla de hierbas. Al fumar hierbas sin nicotin
 
 La mezcla que propongo está compuesta por hierbas aromáticas y tradicionales, cuidadosamente seleccionadas y preparadas con una humedad controlada y un buen cribado. Sin embargo, lo más importante es que puedes adaptarla a tus gustos y necesidades. No hay una fórmula única; cada persona es diferente y tiene circunstancias y niveles de dependencia distintos. Algunas hierbas que podrías incluir son:
 
--Menta: Para una sensación refrescante que ayuda a limpiar las vías respiratorias.
+- Menta: Para una sensación refrescante que ayuda a limpiar las vías respiratorias.
 
--Manzanilla: Con propiedades relajantes que reducen la ansiedad.
+- Manzanilla: Con propiedades relajantes que reducen la ansiedad.
 
--Lavanda: Ideal para calmar los nervios y el estrés.
+- Lavanda: Ideal para calmar los nervios y el estrés.
 
--Tomillo: Con efectos expectorantes que ayudan a limpiar los pulmones.
+- Tomillo: Con efectos expectorantes que ayudan a limpiar los pulmones.
 
--Salvia: Se dice que reduce los antojos de nicotina.
+- Salvia: Se dice que reduce los antojos de nicotina.
 
 
 **El proceso:** Tres días críticos, una semana de transición
