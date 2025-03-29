@@ -17,4 +17,4 @@ header:
 
 **Quienes somos:** Simplemente unos individuales que consiguieron dejar de fumar con este método, que creen en el método y que creen que puede ayudar a otros.
 
-[Lo quiero](../purchase/)
+[**Lo quiero**](../purchase/)
