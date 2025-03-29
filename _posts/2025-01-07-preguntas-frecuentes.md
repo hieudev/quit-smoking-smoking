@@ -26,12 +26,10 @@ Si quieres puedes resolver tus dudas contactándonos por correo electrónico [qu
 
 # Preguntas Frecuentes sobre Nuestra Mezcla Herbal Única
 
-## 🌿 Sobre el Producto
-
 ### 1. ¿Qué hace única a su mezcla herbal?
 Nuestra fórmula patentada **"Aliento de Dragón"** combina:
 - Hierbas europeas de cultivo ecológico
-- Proporciones científicamente validadas
+- Proporciones validadas experimentalmente
 - Proceso de curado artesanal de 21 días
 
 ### 2. ¿Contiene nicotina o aditivos?
@@ -40,14 +38,11 @@ Nuestra fórmula patentada **"Aliento de Dragón"** combina:
 - Aditivos artificiales
 - Saborizantes químicos
 
-## ⏳ Uso y Resultados
-
 ### 3. ¿Cuánto dura cada paquete?
 Dependiendo del uso:
-| Tipo de Consumo | Duración aproximada |
-|----------------|--------------------|
-| Uso moderado (5-6 al día) | 2 semanas |
-| Uso intensivo (10+ al día) | 1 semana |
+
+- Uso moderado (4-5 al día) **2 semanas aprox.**
+- Uso intensivo (8-10 al día)  **1 semana aprox.**
 
 ### 4. ¿Cuándo notaré los primeros beneficios?
 **Cronología de efectos**:
@@ -55,43 +50,19 @@ Dependiendo del uso:
 - 1 semana: Reducción notable de la tos
 - 3 semanas: Recuperación del gusto/olfato
 
-## 🛒 Compra y Entrega
-
-### 5. ¿Hacen envíos internacionales?
-Sí, con opciones:
+### 5. ¿Método de envío?
 - Envío estándar (3-5 días laborables)
-- Express (24-48h) con seguimiento en tiempo real
 
-### 6. ¿Ofrecen muestra gratuita?
-Actualmente disponemos de:
-- **Kit de Iniciación** (3 días de tratamiento)
-- **Pack Prueba** (1 semana) con 20% descuento
+### 6. ¿Tiene algún efecto secundario?
 
-## 🩺 Seguridad y Garantía
+- No se recomienda a personas con alergias a hierbas aromáticas.
+- No hay efectos secudarios más allá de los habituales al inhalar humo.
 
-### 7. ¿Tiene algún efecto secundario?
-Nuestros tests clínicos muestran:
-- 98% de usuarios sin efectos adversos
-- 2% reportaron leve somnolencia (por propiedades relajantes)
-
-### 8. ¿Qué certificaciones tiene?
-Certificados por:
-- UE Agricultura Ecológica
-- Laboratorio Farmacéutico Navarro
-- Asociación Europea de Fitoterapia
-
-## 💰 Precios y Promociones
-
-### 9. ¿Por qué es más cara que otras mezclas?
+### 7. ¿Qué justifica el precio?
 **Inversión en calidad**:
 - Selección manual de hierbas
 - Análisis toxicológicos mensuales
 - Embalaje hermético con control de humedad
-
-### 10. ¿Tienen programa de fidelización?
-Sí, nuestro **Programa Dragon** ofrece:
-- Puntos por compra canjeables
-- Envío gratis a partir de 3 pedidos
-- Asesoría herbal personalizada
+- Tasas y envío incluidos en el precio.
 
 [Lo quiero](../../purchase/)
