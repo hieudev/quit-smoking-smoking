@@ -1,6 +1,6 @@
 ---
 title: "Beneficios de dejar de fumar"
-nid: "19"
+nid: "20"
 excerpt_separator: "<!--more-->"
 categories:
   - Guide

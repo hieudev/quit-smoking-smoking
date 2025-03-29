@@ -1,6 +1,6 @@
 ---
 title: "Por qué esta mezcla concretamente"
-nid: "20"
+nid: "21"
 excerpt_separator: "<!--more-->"
 categories:
   - Guide
