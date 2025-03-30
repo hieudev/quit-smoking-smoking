@@ -7,4 +7,4 @@ permalink: /sold-out/
 
 We're sorry, but we're out of stock. Please try again in the next few days.
 
-[quitsmokingsmokigteam@gmail.com](mailto:quitsmokingsmokigteam@gmail.com)
+[quitsmokingsmokingteam@gmail.com](mailto:quitsmokingsmokingteam@gmail.com)
