@@ -332,23 +332,8 @@ Bran ve el futuro:
 
 🔥 *"Cuando juegas al juego de los cigarros, ganas o mueres... pero siempre dejas rastro"* 🚬  
 
-`#AllMenMustVape` `#TheNorthRemembersToQuit`  
+`#TheNorthRemembersToQuit`  
 
 [⬆ Volver al inicio](#canción-de-humo-y-brea)
-Mejoras respecto a la versión anterior:
-
-Estructura completa con 7 libros y 15 capítulos
-
-Tabla Markdown para el banquete de los condenados
-
-Apéndices con lista de hierbas
-
-Enlace interno para volver al inicio
-
-Hashtags temáticos mejorados
-
-Diálogos más pulidos y acordes al tono de Martin
-
-Metáforas extendidas (dragones como mecheros, etc.)
 
 [Lo quiero](../../purchase/)
