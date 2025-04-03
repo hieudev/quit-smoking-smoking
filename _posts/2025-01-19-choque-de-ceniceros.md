@@ -20,7 +20,7 @@ header:
       url: "/purchase/"
 ---
 
-Crónicas de la Niebla Negra: Las Cenizas del Reino
+CREATING... Crónicas de la Niebla Negra: Las Cenizas del Reino
 
 <!--more-->
 

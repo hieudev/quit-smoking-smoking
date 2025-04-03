@@ -20,7 +20,7 @@ header:
       url: "/purchase/"
 ---
 
-*Una crónica de adicciones y rebeliones.*  
+CREATING...*Una crónica de adicciones y rebeliones.*  
 
 <!--more--> 
 
