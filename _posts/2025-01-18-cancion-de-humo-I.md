@@ -36,7 +36,7 @@ En Dorne, donde el sol quema más fuerte, los jardineros descubrieron que la pla
 
 ---
 
-## Capítulo 1: El Juramento
+## Capítulo 1: Los Juramentados
 
 Cuando los primeros mercaderes de Essos arribaron a Desembarco del Rey con sacos repletos de hojas secas y semillas oscuras, nadie en los Siete Reinos pudo prever el alcance de aquella importación aparentemente inofensiva. Los maestres, siempre atentos a clasificar lo desconocido, la catalogaron con un nombre riguroso: Nicotiana tabacum. Pero fue el pueblo —los bebedores de cerveza negra en los burdeles de las Ciudades Libres, los soldados de la Guardia de la Noche con los dedos entumecidos, y hasta los cortesanos con manos suaves— quienes la bautizaron con algo más poético: la hierba del dragón.
 
@@ -50,7 +50,7 @@ Así nació el Juramento del Fumador. No un juramento hecho en voz alta, ni sell
 
 Pero como cualquier pacto en Poniente, también puede romperse. Y quienes lo han roto, los que han dejado atrás ese humo encantador, lo describen como escapar de un hechizo. Como despertar de un largo sueño y descubrir que el aire puro —el verdadero aliento de vida— estaba esperando más allá de la niebla.
 
-✧ Juramento del Aire Libre ✧
+✧ Juramento Prohibido ✧
 Hoy, ante mí mismo y el viento que aún no he respirado,
 declaro mi ruptura con el humo que me ató.
 He servido al fuego sin llama, al suspiro envenenado,
