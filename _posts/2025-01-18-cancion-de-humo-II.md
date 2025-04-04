@@ -39,7 +39,7 @@ Abajo, en los muelles, los hombres de la Reina Selyse hacían fila para inhalar 
 Y así, mientras el resto de Poniente se ahogaba en el humo del tabaco, Puerto Dragón se consumía en uno más espeso, más dulce, y según Melisandre, infinitamente más sagrado. Pero en las mazmorras, donde los prisioneros de guerra tosían sin consuelo, el verdugo real comentaba entre dientes: "Todos los humos huelen igual cuando te están asfixiando".
 
 
-## Capítulo 4: El Martillo de los Impuros
+## Capítulo 5: El Martillo de los Impuros
 
 El aire en Rocadragón se había vuelto espeso, cargado con el aroma acre de hierbas santas carbonizándose en los incensarios de bronce. Las paredes de piedra negra, que antaño resonaban con los gritos de los Targaryen, ahora retumbaban con los decretos de Stannis Baratheon. Su voz, afilada como el filo de una espada, cortaba el silencio del gran salón donde otrora se coronaban reyes.
 
@@ -58,7 +58,7 @@ Stannis apretó los dientes, pero fue Melisandre quien respondió, mientras el v
 Y mientras el primer fumador clandestino ardía en la hoguera al amanecer, el humo que ascendía al cielo era curiosamente blanco, no rojo, y olía a carne quemada en lugar de hierbas sagradas. Pero nadie se atrevió a señalarlo.
 
 
-## Capítulo 5: El Festín de los Tísicos
+## Capítulo 6: El Festín de los Tísicos
 
 El Gran Septo de Baelor resplandecía con mil velas aquella noche, pero ningún brillo podía ocultar el tinte azulado en los labios del rey. Robert Baratheon ocupaba el centro de la mesa, su corpulenta figura hundida entre cojines de terciopelo mientras una nube grisácea coronaba su cabeza como una parodia de la corona que apenas soportaba.
 
@@ -92,7 +92,7 @@ Según aquellos escritos, los dragones de antaño —criaturas no solo de fuego 
 Esa misma noche, en el salón de debate de la Ciudadela, comenzó una disputa que aún no ha terminado. ¿Eran estos vapores una forma superior de sanación perdida por los hombres? ¿Podían replicarse aquellos rituales para ayudar a quienes hoy viven esclavizados por el humo moderno? Algunos maestres vieron en los textos una esperanza, otros una herejía. Pero todos reconocieron algo que no podían ignorar: que incluso los dragones, en su poder absoluto, buscaban momentos de limpieza interior. ¿Y si ese legado, olvidado entre ruinas y superstición, pudiera volver para ayudarnos ahora?
 
 
-## Capítulo 6: El Juicio de los Parches
+## Capítulo 7: El Juicio de los Parches
 
 El gran salón de la Ciudadela de Antigua albergaba un debate que hacía temblar los mismos cimientos del conocimiento. Tres grupos de maestres, distinguidos por el metal de sus cadenas, se enfrentaban en una guerra de humos y argumentos.
 
@@ -107,7 +107,7 @@ El maestre Marwyn, observando el caos con ojos burlones, decidió zanjar el asun
 Al caer la noche, el humo de las pipas aún flotaba sobre los estantes de libros, pero en las cocinas de la Ciudadela ya se servía té de hierbaluisa. Sin embargo, en los pasillos más oscuros, entre susurros y el crujir de sandalias, persistía la búsqueda de aquel artefacto legendario que prometía separar el conocimiento de la destrucción.
 
 
-## Capítulo 7: El Último Vapeador
+## Capítulo 8: El Último Vapeador
 
 La niebla perpetua de Braavos envolvía a Arya Stark como un manto de humo mientras acechaba por los callejones menos transitados. En los bajos fondos de la ciudad de los canales, donde los asesinos se movían como sombras y los secretos se vendían por menos que el precio de una pipa, había perfeccionado un nuevo arte mortal.
 
