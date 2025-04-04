@@ -34,7 +34,6 @@ Pero pronto saltó de los palacios a las tabernas. Los marineros de Braavos lo e
 
 En Dorne, donde el sol quema más fuerte, los jardineros descubrieron que la planta crecía voraz entre los viñedos. Príncipe Doran permitió su cultivo, aunque no sin antes gravar cada cargamento con impuestos tan pesados como los soles que maduraban las uvas. "Dejemos que el Norte se congele", solía decir mientras observaba las plantaciones desde sus terrazas. "Dorne se enriquecerá con el vicio de otros".
 
----
 
 ## Capítulo 1: Los Juramentados
 
