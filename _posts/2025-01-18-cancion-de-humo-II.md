@@ -137,8 +137,8 @@ Una voz rasgada, antigua como el mundo, susurró en su oído: “El ciclo nunca 
 Mientras tanto, en Invernalia, Sansa Stark firmaba con mano firme un nuevo decreto: el primer Impuesto Real al Vapeo. No era una solución definitiva, pero era un gesto —una grieta en la rueda— que marcaba el inicio de otra historia, quizás más libre, quizás no. El cuervo blanco alzó el vuelo, y su sombra pasó sobre los techos helados del Norte, llevando consigo la advertencia: no basta con cambiar la forma del humo… hay que aprender a vivir sin él.
 
 
-**FIN** 
+_**FIN** 
 
----
+
 
 [Lo quiero](../../purchase/)
