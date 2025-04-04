@@ -1,5 +1,5 @@
 ---
-title: "Canción de humo y brea"
+title: "Canción de humo y brea II"
 nid: "18"
 excerpt_separator: "<!--more-->"
 categories:
@@ -10,8 +10,8 @@ tags:
   #- standard
   - main
 header:
-  teaser: /assets/images/grass-6353411_1280.jpg
-  overlay_image: /assets/images/grass-6353411_1280.jpg
+  teaser: /assets/images/leaves-6721582_1280.jpg
+  overlay_image: /assets/images/leaves-6721582_1280.jpg
   overlay_filter: rgba(0, 0, 0, 0.2)
   # overlay_filter: rgba(255, 0, 0, 0.5)
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -26,21 +26,37 @@ Libro Segundo: La Guerra de los Vapeadores
 
 ## Prólogo: El Humo de R'hllor
 
-Cuando Stannis Baratheon conquistó Puerto Dragón, encontró más que barcos: descubrió **el vapeo sagrado**. Los sacerdotes rojos habían convertido los antiguos dragones de piedra en gigantescos vaporizadores que exhalaban humo rojo día y noche. "No es tabaco", juró Melisandre, "es el aliento del Señor de la Luz".
+Cuando Stannis Baratheon tomó Puerto Dragón, las antiguas estatuas de piedra que otrora vigilaban el puerto ya no escupían fuego, sino humo. Los sacerdotes rojos de R'hllor habían transformado los mascarones de proa en gigantescos artefactos de bronce y vidrio, cuyas fauces ahora exhalaban espirales carmesí que teñían el cielo al amanecer.
+
+Melisandre caminaba entre los vapores como una sombra escarlata, sus manos alzadas hacia las nubes artificiales. "No es tabaco lo que queman estos dragones", proclamaba a los soldados que tosían al inhalar el espeso vapor. "Es el aliento purificado del Señor de la Luz. Cada bocanada quema los pecados, no los pulmones".
+
+Los marineros contaban que las noches en Puerto Dragón se habían vuelto sobrenaturales. El humo rojo se enroscaba alrededor de las antorchas, convirtiendo las llamas en espectros danzantes. Los vigías juraban ver caras en las brumas: rostros de reyes muertos, de batallas por venir, de pulmones ennegrecidos que se retorcían como pergaminos al fuego.
+
+Stannis observaba todo desde la torre del almirante, su mandíbula apretada alrededor de una boquilla de acero que conectaba a un tubo de cristal lleno de líquido ardiente. "El dragón de piedra de Aegon sólo podía quemar una ciudad a la vez", murmuró una noche a Davos. "Estos queman un reino entero... sin que nadie note el fuego hasta que es demasiado tarde".
+
+Abajo, en los muelles, los hombres de la Reina Selyse hacían fila para inhalar de los "cuernos de luz", unos artefactos de cobre que distribuían dosis medidas de vapor bendito. Los que se negaban —como el propio Davos— recibían miradas de lástima. "El Señor de la Luz protege a los suyos", le espetó una joven sacerdotisa mientras llenaba su pipa de agua con esencia de granada y azufre. "El humo de los impuros huele a derrota".
+
+Y así, mientras el resto de Poniente se ahogaba en el humo del tabaco, Puerto Dragón se consumía en uno más espeso, más dulce, y según Melisandre, infinitamente más sagrado. Pero en las mazmorras, donde los prisioneros de guerra tosían sin consuelo, el verdugo real comentaba entre dientes: "Todos los humos huelen igual cuando te están asfixiando".
 
 ---
 
 ## Capítulo 4: El Martillo de los Impuros
 
-El castillo de Rocadragón olía a hierbas quemadas y fanatismo. Stannis dictó sus nuevas leyes:
+El aire en Rocadragón se había vuelto espeso, cargado con el aroma acre de hierbas santas carbonizándose en los incensarios de bronce. Las paredes de piedra negra, que antaño resonaban con los gritos de los Targaryen, ahora retumbaban con los decretos de Stannis Baratheon. Su voz, afilada como el filo de una espada, cortaba el silencio del gran salón donde otrora se coronaban reyes.
 
-1. **Pena de hoguera** para quien fumara tabaco natural
-2. **Obligatorio** usar los vaporizadores del templo
-3. **Recompensa** por delatar fumadores clandestinos
+"La hoguera purificará a quien se atreva a encender tabaco natural en mis tierras", anunció, mientras su sombra se proyectaba sobre el mapa tallado de Poniente. "Los vaporizadores del templo serán vuestro único consuelo. Y aquel que delate a un fumador clandestino recibirá su peso en plata".
 
-> *"Vi en las llamas pulmones negros como carbón"* declaró Melisandre mientras ajustaba el dial de temperatura en su cetro-vaporizador. *"R'hllor nos muestra el cáncer que viene"*.
+Melisandre, envuelta en sus ropajes rojos como una llama viviente, alzó su cetro-vaporizador. El artefacto brilló con una luz ominosa cuando giró el dial de rubíes incrustados. "El Señor de la Luz me ha mostrado visiones", proclamó, mientras el vapor rojo se arremolinaba alrededor de su cabeza como una corona sangrienta. "Pulmones negros como carbón, alquitrán goteando de bocas que suplican clemencia. Esto no es humo lo que exhalamos, sino la salvación misma".
 
-Davos el Caballero de las Cebollas protestó: *"Mi hijo murió quemado, no para que otros jueguen con humo"*. Esa noche encontraron su contrabando: 50 pipas de tabaco escondidas entre sacos de cebollas.
+Davos Seaworth, el Caballero de las Cebollas, observaba desde un rincón, sus dedos callosos jugueteando con el saco de cebollas que siempre llevaba consigo. "Mi hijo murió quemado", murmuró, demasiado bajo para que Stannis lo oyera, pero lo suficiente para que los hombres a su alrededor inclinaran la cabeza. "No para que ahora nos entretengamos con humo de colores".
+
+Esa misma noche, mientras la luna se reflejaba en las olas negras que golpeaban los acantilados, los guardias registraron los almacenes. Entre sacos de cebollas y barriles de agua salada, encontraron el tesoro escondido de Davos: cincuenta pipas de tabaco cuidadosamente envueltas en lino, cada una tallada con la figura de un diferente dios de los Siete Reinos. El viejo navegante no negó el cargo cuando lo arrastraron ante Stannis.
+
+"Un hombre necesita elegir sus propios vicios", dijo simplemente, mientras las llamas de las antorchas bailaban en sus ojos cansados. "Y sus propios dioses".
+
+Stannis apretó los dientes, pero fue Melisandre quien respondió, mientras el vapor rojo escapaba de entre sus labios como un dragón exhalando fuego: "Todos llevamos algo en el corazón, Ser Davos. Ceniza... o luz".
+
+Y mientras el primer fumador clandestino ardía en la hoguera al amanecer, el humo que ascendía al cielo era curiosamente blanco, no rojo, y olía a carne quemada en lugar de hierbas sagradas. Pero nadie se atrevió a señalarlo.
 
 ---
 
