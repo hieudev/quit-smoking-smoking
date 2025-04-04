@@ -45,21 +45,49 @@ Este es el relato de esa guerra silenciosa. De cómo el humo conquistó un conti
 
 ## Capítulo 9: El Consejo de la Tose
 
-La sala del consejo en Desembarco del Rey olía a enfermedad y ambición. Lord Varys deslizaba sus dedos enguantados sobre un informe manchado de ceniza, sus ojos sin pestañear ante las cifras de mortalidad. "Los esclavos de Volantis riegan sus plantaciones con sombra de noche", susurraba con voz meliflua, "y pronto cosecharemos pestes en lugar de impuestos". El pergamino temblaba levemente al mencionar cómo los campos de tabaco oscurecían el alma tanto como los pulmones.
+La sala del consejo respiraba con pesadez, cargada de humo y el dulce aroma podrido del tabaco fermentado. Las velas parpadeaban, proyectando sombras alargadas sobre los rostros de los conspiradores, como si ya las llamas conspirasen también. Lord Varys deslizaba un informe entre sus dedos enguantados, las cifras de mortalidad escritas con tinta roja, casi como sangre seca.
 
-En el extremo de la mesa, Petyr Baelish enrollaba un cigarrillo con hojas doradas de las Tierras del Río, su sonrisa afilada como la hoja de un cuchillo. "El conocimiento construye imperios", murmuró mientras encendía su creación con la llama de una vela cercana, "pero este polvo dorado los financia". 
+—Los esclavos de Volantis riegan sus campos con sombra de noche —susurró, y el pergamino crujió bajo su tacto—. Pronto, en lugar de grano, cosecharemos cadáveres.
 
-La Reina Margaery, sentada entre ambos como una flor entre espinas, hacía girar un cenicero de jade tallado con rosas. "El pueblo no pide tronos", dijo dulcemente, "sino pan para sus hijos y filtros para sus vicios".
+En el otro extremo de la mesa, Petyr Baelish enrollaba con delicadeza un cigarrillo, sus movimientos precisos como los de un cirujano preparando un veneno. Las hojas doradas crujían entre sus dedos, exhalando un aroma espeso, dulzón, como miel envenenada. Encendió la punta con la llama de una vela, y el fuego iluminó por un instante sus ojos fríos, calculadores.
 
-> *"Cuando juegas al juego de los cigarros, o conquistas el mercado o entierras a tus clientes"*
+—El conocimiento construye imperios —murmuró, exhalando una bocanada que se enroscó en el aire como un fantasma—. Pero es este polvo el que los mantiene en pie.
+
+Entre ellos, la Reina Margaery observaba en silencio, sus dedos acariciando el borde de un cenicero de jade tallado con rosas. El humo danzaba frente a ella, como si intentara seducirla, pero su expresión permanecía impasible, una máscara perfecta de cortesía y peligro.
+
+—El pueblo no pide tronos —dijo al fin, su voz suave como el roce de un cuchillo contra seda—. Solo pan para sus hijos... y algo que les haga olvidar el hambre.
+
+Varys sonrió, pero no hubo calidez en su gesto, solo el brillo húmedo de una serpiente entre la hierba.
+
+—Olvidar es un lujo que muy pronto no podrán permitirse.
+
+Baelish dejó escapar una risa baja, ahogada por el humo.
+
+—No importa. Para entonces, ya habrán vendido sus almas por otra calada.
+
+Fuera, en las calles de Desembarco del Rey, la noche se llenaba de toses secas, de gargantas irritadas por el vicio. El aire olía a ceniza y ambición.
+
+"El humo no distingue entre señores y mendigos. Todos acaban igual: quemándose por dentro."
 
 ## Capítulo 10: La Danza de los Vapeadores
 
-Rocadragón respiraba humo sagrado. Melisandre, alta como una antorcha viviente, dirigía el ritual frente a los dragones de cristal traídos de Myr. Las enormes estructuras exhalaban vapores rojos que teñían el amanecer de sangre. "Por el fuego somos purificados", cantaba mientras ajustaba el flujo de esencias rojas.
+Rocadragón se alzaba como un espectro entre la niebla matinal, sus torres negras devoradas por espirales de humo sagrado. Melisandre, erguida como una llama viviente, extendía sus brazos frente a los dragones de cristal traídos de Myr, sus escamas translúcidas brillando con un fulgor interior. Las bestias mecánicas exhalaban vapores rojos, espesos como sangre recién derramada, que se enroscaban en el aire y teñían el amanecer de un tono profético.
 
-Davos Seaworth observaba con el ceño fruncido, sus manos callosas apretando el saco de cebollas que nunca abandonaba. "En mis tiempos", gruñó, "un hombre miraba a la muerte a los ojos sin necesidad de adornos humeantes".
+—Por el fuego somos purificados— entonaba la sacerdotisa, mientras sus dedos, largos y pálidos, ajustaban los delicados mecanismos que regulaban el flujo de las esencias sagradas. El líquido rojo goteaba en los depósitos de cristal, burbujeando como si contuviera el aliento mismo de R'hllor.
 
-Mientras tanto, en los callejones de Desembarco del Rey, los Hijos del Vapor celebraban su propia blasfemia. Jóvenes señores con capas de terciopelo inhalaban profundamente de frascos tallados, exhalando nubes con sabor a melocotones de Altojardín. "Esto no es vicio", proclamaban riendo, "es oración líquida".
+Davos Seaworth se mantenía al margen, su rostro curtido por el mar marcado por un ceño de desconfianza. Apretaba con fuerza el saco de cebollas que nunca abandonaba, como si fuera el último ancla a un mundo que aún entendía.
+
+—En mis tiempos —masculló, su voz áspera como las olas rompiendo contra un casco—, un hombre miraba a la muerte a los ojos sin necesidad de adornos humeantes.
+
+Pero sus palabras se perdieron entre los murmullos de los creyentes, cuyos ojos vidriosos seguían los vapores con devoción. El humo les envolvía, les penetraba, prometiéndoles visiones de futuros ardientes y glorias eternas.
+
+Mientras tanto, en los callejones de Desembarco del Rey, donde la religión se mezclaba con el libertinaje, los Hijos del Vapor celebraban su propia blasfemia. Jóvenes señores, vestidos con capas de terciopelo bordadas con runas sin sentido, inhalaban profundamente de frascos de vidrio tallado, sus pulmones llenándose de esencias dulces y embriagadoras. Al exhalar, nubes perfumadas escapaban de sus labios, con aromas a melocotones de Altojardín y vainilla de las islas del Verano.
+
+—Esto no es vicio —proclamaban entre risas ahogadas, mientras el mundo a su alrededor se difuminaba en tonalidades doradas—. Es oración líquida.
+
+Y así, entre el fervor religioso y la decadencia, el reino se sumía en un sueño humeante, donde la fe y el placer se confundían, y donde los hombres, en lugar de enfrentar la crudeza de la vida, preferían evaporarse en sus propios delirios.
+
+"El humo no distingue entre sagrado y profano. Solo sabe ascender... y desaparecer."
 
 ## Capítulo 11: El Mercado de los Suspiros Perdidos
 
