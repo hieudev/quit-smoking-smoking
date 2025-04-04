@@ -20,9 +20,6 @@ header:
       url: "/purchase/"
 ---
 
-CREATING... Crónicas de la Niebla Negra: Las Cenizas del Reino
-
-
 Libro Sexto: El Trono de Hierba Santa  
 
 <!--more-->
