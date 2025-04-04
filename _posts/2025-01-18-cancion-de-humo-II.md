@@ -38,7 +38,6 @@ Abajo, en los muelles, los hombres de la Reina Selyse hacían fila para inhalar 
 
 Y así, mientras el resto de Poniente se ahogaba en el humo del tabaco, Puerto Dragón se consumía en uno más espeso, más dulce, y según Melisandre, infinitamente más sagrado. Pero en las mazmorras, donde los prisioneros de guerra tosían sin consuelo, el verdugo real comentaba entre dientes: "Todos los humos huelen igual cuando te están asfixiando".
 
----
 
 ## Capítulo 4: El Martillo de los Impuros
 
@@ -58,7 +57,6 @@ Stannis apretó los dientes, pero fue Melisandre quien respondió, mientras el v
 
 Y mientras el primer fumador clandestino ardía en la hoguera al amanecer, el humo que ascendía al cielo era curiosamente blanco, no rojo, y olía a carne quemada en lugar de hierbas sagradas. Pero nadie se atrevió a señalarlo.
 
----
 
 ## Capítulo 5: El Festín de los Tísicos
 
@@ -84,7 +82,6 @@ En un balcón lejano, Tyrion Lannister alzó una copa de agua cristalina hacia l
 
 El silencio que siguió no fue de duelo, sino el de un reino conteniendo la respiración, preguntándose qué demonios inhalarían a continuación.
 
----
 
 ## Interludio: La Ciudadela de los Remedios
 
@@ -94,7 +91,6 @@ Según aquellos escritos, los dragones de antaño —criaturas no solo de fuego 
 
 Esa misma noche, en el salón de debate de la Ciudadela, comenzó una disputa que aún no ha terminado. ¿Eran estos vapores una forma superior de sanación perdida por los hombres? ¿Podían replicarse aquellos rituales para ayudar a quienes hoy viven esclavizados por el humo moderno? Algunos maestres vieron en los textos una esperanza, otros una herejía. Pero todos reconocieron algo que no podían ignorar: que incluso los dragones, en su poder absoluto, buscaban momentos de limpieza interior. ¿Y si ese legado, olvidado entre ruinas y superstición, pudiera volver para ayudarnos ahora?
 
----
 
 ## Capítulo 6: El Juicio de los Parches
 
@@ -110,7 +106,6 @@ El maestre Marwyn, observando el caos con ojos burlones, decidió zanjar el asun
 
 Al caer la noche, el humo de las pipas aún flotaba sobre los estantes de libros, pero en las cocinas de la Ciudadela ya se servía té de hierbaluisa. Sin embargo, en los pasillos más oscuros, entre susurros y el crujir de sandalias, persistía la búsqueda de aquel artefacto legendario que prometía separar el conocimiento de la destrucción.
 
----
 
 ## Capítulo 7: El Último Vapeador
 
@@ -128,7 +123,6 @@ Arya asintió en silencio, pero esa misma noche, cuando abrió su lista de nombr
 
 El que no tenía rostro, pero mataba más lentamente que cualquier espada.
 
----
 
 ## Epílogo: El Cuervo Blanco
 
@@ -142,11 +136,8 @@ Una voz rasgada, antigua como el mundo, susurró en su oído: “El ciclo nunca 
 
 Mientras tanto, en Invernalia, Sansa Stark firmaba con mano firme un nuevo decreto: el primer Impuesto Real al Vapeo. No era una solución definitiva, pero era un gesto —una grieta en la rueda— que marcaba el inicio de otra historia, quizás más libre, quizás no. El cuervo blanco alzó el vuelo, y su sombra pasó sobre los techos helados del Norte, llevando consigo la advertencia: no basta con cambiar la forma del humo… hay que aprender a vivir sin él.
 
----
 
 **FIN** 
-
-🔥🚬 `#ForTheThroneButNotForTheLungs`  
 
 ---
 

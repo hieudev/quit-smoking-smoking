@@ -69,7 +69,7 @@ mi voluntad es más fuerte que el humo.
 Mi vida, más valiosa que el hábito.
 Y mi aliento, por fin, es mío.
 >
----
+
 
 ## Capítulo 2: El Lord de los Cigarrillos  
 
@@ -85,7 +85,6 @@ Una noche, cuando la luna iluminaba las olas bajo el castillo, Tywin aplastó su
 
 Fuera, en las mazmorras, los prisioneros tosían. Arriba, en las torres, los sirvientes escondían sus vicios. Y en el centro de todo, la familia que había convertido la adicción en un trono.
 
----
 
 ## Capítulo 3: La Guardia de la Nicotina  
 
@@ -103,7 +102,6 @@ Mientras, en las escaleras de la Torre del Lord Comandante, Dolorous Edd forceje
 
 El humo, como el frío, siempre encontraba la manera de colarse.
 
----
 
 ## Capítulo 4: La Reina de los Ceniceros
 
@@ -120,8 +118,6 @@ Missandei los encontró al amanecer - tres Inmaculados caídos como estatuas de 
 En los mercados, entre los susurros de las telas y el regateo de los esclavos, circulaba ahora una nueva verdad: "En Meereen se venden dos tipos de muerte", murmuraban los vendedores mientras escondían sus mercancías bajo los mostradores. "La rápida viene con filo de cuchillo, pero la lenta... la lenta se fuma con sonrisas".
 
 Y mientras Daenerys inspeccionaba personalmente las primeras plantaciones en llamas, el humo que ascendía hacia el cielo no olía a jazmín ni a menta, sino a guerra.
-
----
 
 
 ## Interludio: Cantos de Taberna
@@ -165,5 +161,8 @@ termina en pulmón quebrado,
 y el invierno... siempre llega." 🎶
 
 ---
+
+**FIN** 
+
 
 [Lo quiero](../../purchase/)
