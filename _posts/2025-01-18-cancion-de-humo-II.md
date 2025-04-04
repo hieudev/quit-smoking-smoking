@@ -62,74 +62,89 @@ Y mientras el primer fumador clandestino ardía en la hoguera al amanecer, el hu
 
 ## Capítulo 5: El Festín de los Tísicos
 
-El Gran Septo de Baelor albergó el último banquete de Robert Baratheon:
+El Gran Septo de Baelor resplandecía con mil velas aquella noche, pero ningún brillo podía ocultar el tinte azulado en los labios del rey. Robert Baratheon ocupaba el centro de la mesa, su corpulenta figura hundida entre cojines de terciopelo mientras una nube grisácea coronaba su cabeza como una parodia de la corona que apenas soportaba.
 
-| Plato | Acompañamiento |
-|-------|----------------|
-| Jabalí | 3 cigarrillos Dornienses |
-| Vino | Puro de las Tierras de la Tormenta |
-| Postre | Pipas de opio con esencia de menta |
+Los platos pasaban ante sus ojos vidriosos:
 
-El maestre Pycelle escribió en su informe: *"Su Grace falleció por obstrucción pulmonar"*. Pero Varys sabía la verdad: en el último año, Robert había:
+Un jabalí entero, su piel crujiente adornada no con hierbas, sino con tres finos cigarrillos de Dorne, colocados entre los colmillos como ofrenda. Robert los arrancó con sus propias manos, encendiéndolos uno tras otro en la llama de la vela más cercana.
 
-- Convertido sus estancias privadas en fumadero
-- Usado el Trono de Hierro como cenicero gigante
-- Ordenado armaduras con portacigarrillos integrados
+"¡El vino!", rugió entre toses, y los sirvientes apresurados llenaron su copa con el negro licor de las Tierras de la Tormenta, en cuya superficie flotaba, como un barco funerario, un puro cortado al tamaño exacto de su puño real.
 
-Cersei hizo quemar el cuerpo con **"Honores Reales"**: 21 salvas de arcabuces cargados con tabaco en polvo.
+Cuando llegaron los postres, el maestre Pycelle palideció al ver las pipas de opio talladas en marfil, sus cuencas rebosantes de una sustancia verde que olía a menta y a algo más profundo, más oscuro. El gran maestre intentó protestar, pero la mirada de Cersei lo silenció antes de que las palabras salieran de su boca temblorosa.
 
-> *"Un Baratheon vive por la furia... y muere por los excesos"* - Tyrion Lannister brindando con agua.
+Varys, desde su rincón, observaba cómo el humo se enroscaba alrededor de las estatuas de los Siete. Sabía lo que Pycelle escribiría al día siguiente en su informe oficial: "Obstrucción pulmonar". Pero el eunuco también conocía las verdades que no aparecerían en ningún pergamino.
+
+Cómo las estancias privadas del rey se habían convertido en una cueva de humo donde los tapices dorados estaban teñidos de amarillo nicotina. Cómo el Trono de Hierro, aquel monstruo de espadas fundidas, acumulaba cenizas en sus hendiduras como si fuera un gigantesco cenicero divino. Cómo la última armadura encargada por Robert incluía un ingenioso portacigarrillos en el antebrazo derecho, "para no perder tiempo en la batalla", según sus propias palabras.
+
+Cuando llegó el final, Cersei no escatimó en honores. Veintiuna salvas retumbaron sobre Desembarco del Rey, pero en lugar de pólvora, los arcabuces dispararon tabaco en polvo que cubrió la ciudad como una nieve sucia. Los pobres del Lecho de Pulgas corrieron con cubos para recoger el preciado polvo que caía del cielo.
+
+En un balcón lejano, Tyrion Lannister alzó una copa de agua cristalina hacia la nube que se dispersaba.
+
+"Un Baratheon vive por la furia", murmuró para sí mismo, mientras las últimas partículas del rey descendían sobre los tejados, "y muere escupiendo el mismo veneno que llamó placer".
+
+El silencio que siguió no fue de duelo, sino el de un reino conteniendo la respiración, preguntándose qué demonios inhalarían a continuación.
+
+---
 
 ## Interludio: La Ciudadela de los Remedios
 
-Cuando los archimaestres de Antigua abrieron la cámara secreta de Ebrose, encontraron pergaminos valyrios que hablaban de **"La Gran Purga"**: cómo los dragones limpiaban sus pulmones con vapor de hierbas. El debate comenzó esa misma noche.
+Cuando los archimaestres de la Ciudadela, movidos por la sospecha y el rumor, forzaron la cerradura de la cámara privada del viejo Ebrose, no esperaban hallar más que fórmulas olvidadas y recetas para cataplasmas de invierno. Pero lo que descubrieron fue otra cosa. En el fondo de aquel cuarto polvoriento, bajo capas de pergaminos y cenizas selladas con cera negra, yacían textos valyrios prohibidos. Manuscritos que hablaban de una práctica ancestral conocida como La Gran Purga.
+
+Según aquellos escritos, los dragones de antaño —criaturas no solo de fuego sino también de equilibrio interior— tenían un ciclo natural de limpieza. Se retiraban a fumarolas o valles herbales donde inhalaban vapores de plantas rituales. No era solo para purificarse del veneno que exhalaban, sino para mantener la claridad del aliento de fuego, la salud del pecho y la conexión con la magia primitiva que los animaba. Aquello no era medicina, era alquimia viva.
+
+Esa misma noche, en el salón de debate de la Ciudadela, comenzó una disputa que aún no ha terminado. ¿Eran estos vapores una forma superior de sanación perdida por los hombres? ¿Podían replicarse aquellos rituales para ayudar a quienes hoy viven esclavizados por el humo moderno? Algunos maestres vieron en los textos una esperanza, otros una herejía. Pero todos reconocieron algo que no podían ignorar: que incluso los dragones, en su poder absoluto, buscaban momentos de limpieza interior. ¿Y si ese legado, olvidado entre ruinas y superstición, pudiera volver para ayudarnos ahora?
+
+---
 
 ## Capítulo 6: El Juicio de los Parches
 
-El Conclave se dividió en tres facciones:
+El gran salón de la Ciudadela de Antigua albergaba un debate que hacía temblar los mismos cimientos del conocimiento. Tres grupos de maestres, distinguidos por el metal de sus cadenas, se enfrentaban en una guerra de humos y argumentos.
 
-1. **Los Tradicionalistas** (Cadena de Cobre)
-   - *"Los parches de nicotina son brujería!"*
-   - Usaban rapé de tabaco negro
+Los maestres de cobre, veteranos curtidos en tradiciones ancestrales, defendían con vehemencia el uso del rapé negro. "¡Manchar nuestra sabiduría con parches de nicotina es blasfemia!", exclamaba el anciano maestre Lorcas mientras una nube de polvo oscuro escapaba de sus fosas nasales. Sus túnicas olían a tabaco añejo y pergaminos polvorientos.
 
-2. **Los Reformistas** (Cadena de Plata)
-   - Promovían chicles de hierbaluisa
-   - Inventaron el primer "vaporizador sin fuego"
+En el lado opuesto, los portadores de cadenas plateadas exhibían sus innovaciones con orgullo juvenil. La maestre Sylvi, cuyos dedos siempre conservaban un aroma a menta, hacía demostraciones con su último invento: un vaporizador que transformaba hierbas en bruma sin necesidad de fuego. "La verdadera sabiduría está en la pureza de la esencia", proclamaba mientras el aparato silbaba suavemente.
 
-3. **Los Místicos** (Cadena de Oro)
-   - Buscaban la pipa valyria perdida
-   - Creían que el vidriagón filtraba toxinas
+Entre las columnas de mármol, los maestres de oro murmuraban sobre leyendas. El excéntrico maestre Qyburn sostenía un fragmento de vidriagón contra la luz, susurrando teorías sobre la pipa valyria perdida. "No era simple cristal", explicaba a quien quisiera escuchar, "sino un filtro para separar la sabiduría del vicio".
 
-El maestre Marwyn resolvió el conflicto con un experimento: hizo fumar a tres ratones con cada método. Solo sobrevivió el que masticó hierbas.
+El maestre Marwyn, observando el caos con ojos burlones, decidió zanjar el asunto con un experimento revelador. Tres ratones blancos fueron sometidos a los distintos métodos: uno se convulsionó con el parche, otro estornudó con el vapor, mientras el tercero, alimentado con hierbas frescas, se limitó a lamerse los bigotes satisfecho.
+
+Al caer la noche, el humo de las pipas aún flotaba sobre los estantes de libros, pero en las cocinas de la Ciudadela ya se servía té de hierbaluisa. Sin embargo, en los pasillos más oscuros, entre susurros y el crujir de sandalias, persistía la búsqueda de aquel artefacto legendario que prometía separar el conocimiento de la destrucción.
+
 ---
 
 ## Capítulo 7: El Último Vapeador
 
-En los callejones de Braavos, Arya Stark perfeccionó su arte mortal:
+La niebla perpetua de Braavos envolvía a Arya Stark como un manto de humo mientras acechaba por los callejones menos transitados. En los bajos fondos de la ciudad de los canales, donde los asesinos se movían como sombras y los secretos se vendían por menos que el precio de una pipa, había perfeccionado un nuevo arte mortal.
 
-| Víctima | Método | Efecto |
-|---------|--------|--------|
-| El Camellero | Tabaco + hueso molido | Muerte en 3 toses |
-| Fumador Púrpura | Lirios morados secos | Piel azul permanente |
-| El Pregonero | Pólvora + mentol | Explosión pulmonar |
+El Camellero fue el primero. Un traficante de tabaco de Pentos que adulteraba sus mezclas con hueso molido de esclavo. Arya lo observó durante tres noches antes de colocar cuidadosamente un cigarrillo enroscado entre su mercancía. Cuando el hombre lo encendió, apenas tuvo tiempo de dar tres toses profundas antes de desplomarse en el canal, sus pulmones convertidos en yeso.
 
-El Hombre de Muchos Rostros le advirtió: *"Matar con humo es elegante... pero te dejará cicatrices invisibles"*. Arya no escuchó. Esa noche añadió un nuevo nombre a su lista: **"La Nicotina"**.
+El Fumador Púrpura, un noble de Qohor que ostentaba su vicio como distinción, recibió un regalo especial: lirios morados secos, cuidadosamente mezclados con su tabaco favorito. Al tercer día, su piel comenzó a tomar un tono azulado que ni los mejores maquillajes podían ocultar. Para cuando los sirvientes encontraron su cuerpo, parecía una estatua de lapislázuli.
+
+Pero fue El Pregonero quien recibió el castigo más espectacular. Un hombre que voceaba mentiras por monedas y que siempre llevaba un cigarrillo colgando de sus labios. Arya reemplazó su tabaco habitual con una mezcla de pólvora fina y mentol. La explosión no fue grande, pero suficiente para que sus pulmones colapsaran como odres vacíos.
+
+El Hombre de Muchos Rostros la encontró esa misma noche, limpiando sus instrumentos junto al canal. "Matar con humo es elegante", le dijo mientras su rostro cambiaba como las volutas de un cigarrillo, "pero cada bocanada que usas como arma deja cicatrices en tu propio espíritu".
+
+Arya asintió en silencio, pero esa misma noche, cuando abrió su lista de nombres, añadió uno nuevo con letras cuidadosamente trazadas: "La Nicotina". No era un hombre, ni una mujer, sino el mismo vicio que había visto destruir a tantos. Y mientras la bruma matinal se mezclaba con el humo de los primeros fumadores de Braavos, la Hija de la Tormenta juró que algún día, cuando todos los demás nombres hubieran sido tachados, se enfrentaría a este último enemigo.
+
+El que no tenía rostro, pero mataba más lentamente que cualquier espada.
 
 ---
 
 ## Epílogo: El Cuervo Blanco
 
-Bran vio a través del tiempo:
+Bran Stark, el Cuervo de Tres Ojos, miró a través del tiempo con una serenidad inquietante. Sus ojos le mostraron los rastros del humo en la historia de los hombres, y también en su futuro. En el pasado, vio dragones surcando los cielos de Poniente, lanzando llamas que arrasaban campos enteros de tabaco. Era una visión de fuego purificador, un acto simbólico de ruptura con la dependencia de aquella hoja que tantos corazones había atado.
 
-1. **Pasado**: Dragones quemando plantaciones de tabaco
-2. **Presente**: Mercaderes vendiendo "huevos de dragón" (vapeadores)
-3. **Futuro**: Niños jugando con cigarrillos electrónicos con forma de Drogon
+En el presente, en los bazares de las ciudades libres y en los puertos del Norte, comerciantes astutos ofrecían pequeños artefactos brillantes a los jóvenes y curiosos. Los llamaban “huevos de dragón”, pero no eran más que vapeadores disfrazados de reliquias mágicas. Prometían modernidad y control, pero el humo, aunque aromático y digital, seguía atrapando con el mismo encanto de siempre.
 
-El Cuervo de Tres Ojos susurró: *"El ciclo nunca termina. Solo cambia de forma"*. Mientras, en Invernalia, Sansa firmaba el primer "Impuesto Real al Vapeo".
+Y más adelante, en un futuro que aún no ha llegado, Bran vio niños corriendo por las plazas de la Fortaleza Roja, sosteniendo cigarrillos electrónicos moldeados con la forma de Drogon, el último gran dragón. Reían, jugaban, y sin saberlo, repetían los gestos de generaciones pasadas. El ciclo no se había roto; solo había mutado.
+
+Una voz rasgada, antigua como el mundo, susurró en su oído: “El ciclo nunca termina. Solo cambia de forma”. Era el eco del propio Cuervo de Tres Ojos, hablándose a sí mismo desde dentro del tiempo.
+
+Mientras tanto, en Invernalia, Sansa Stark firmaba con mano firme un nuevo decreto: el primer Impuesto Real al Vapeo. No era una solución definitiva, pero era un gesto —una grieta en la rueda— que marcaba el inicio de otra historia, quizás más libre, quizás no. El cuervo blanco alzó el vuelo, y su sombra pasó sobre los techos helados del Norte, llevando consigo la advertencia: no basta con cambiar la forma del humo… hay que aprender a vivir sin él.
 
 ---
 
-**FIN DE LA CRÓNICA** 
+**FIN** 
 
 🔥🚬 `#ForTheThroneButNotForTheLungs`  
 
