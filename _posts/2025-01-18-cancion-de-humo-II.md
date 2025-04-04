@@ -20,82 +20,9 @@ header:
       url: "/purchase/"
 ---
 
-CREATING...*Una crónica de adicciones y rebeliones.*  
+Libro Segundo: La Guerra de los Vapeadores
 
 <!--more--> 
-
-## Prólogo: El Reino Envenenado  
-
-En los Siete Reinos de Poniente, donde los dragones surcaban los cielos y los lobos aullaban en la noche, hubo un tiempo en que un enemigo más sigiloso que los Otros acechaba entre las sombras. No era un dios ahogado ni un señor de la luz, sino una planta maldita: el tabaco negro de Essos, traído por mercaderes de las Ciudades Libres y sembrado en los jardines de Dorne.
-
----
-
-## Libro Primero: El Juramento del Fumador
-
-Cuando los mercaderes de Essos trajeron las primeras semillas a Desembarco del Rey, nadie imaginó que conquistarían Poniente más rápido que los dragones Targaryen. Los maestres la llamaban *Nicotiana tabacum*, pero el pueblo la bautizó **"hierba del dragón"** - por cómo su humo serpenteaba como el aliento de Balerion y su aroma embriagador conquistó cortes y tabernas por igual. Pero como todo poder en Poniente, tenía un precio. En menos de una generación, ya se cultivaba desde los jardines de Dorne hasta el Muro, y su moneda de pago no era oro, sino adicción.
-
-### Capítulo 1: El Lord de los Cigarrillos  
-
-La cámara del consejo en Roca Casterly olía a mentol y poder. Lord Tywin Lannister sostenía entre sus dedos un fino cigarrillo envuelto en seda de Myr, mientras revisaba las cuentas del reino:
-
-*"Los impuestos al tabaco pagan tres cuartas partes de nuestra flota"*, musitaba mientras exhalaba humo dorado por la ventana. Sus hijos seguían el ritual a su modo:
-
-- **Cersei** fumaba en secreto tras cada orden de ejecución, escondiendo las colillas bajo los tapices rojos.
-- **Jaime** encendía los suyos con su mano de oro, quemando las puntas con desprecio.
-- **Tyrion** los mezclaba con hierbas de Lys, creando nubes azules que ahogaban sus pesares.
-
-> *"¿Sabíais que los Lannister tenemos minas de oro bajo Roca Casterly?"* preguntó Tywin una noche, aplastando su cigarro en un cenicero con forma de león. *"Pero nuestra verdadera fortuna está en estas hojas. Un vicio que todos creen poder dejar... cuando quieran"*.
-
-### Capítulo 2: La Guardia de la Nicotina  
-
-El viento helado cortaba como cuchillo cuando Jon Snow encontró al salvaje Ygritte tosiendo sangre negra contra la nieve. 
-
-*"Son las pipas de hielo"*, explicó el Maestre Aemon con tristeza. *"Los salvajes mojan el tabaco en brea derretida para que dure más. Les calcina los pulmones"*.
-
-Esa misma noche, Jon emitió su primer decreto como Lord Comandante:
-
-1. **Prohibición** de fumar en torres interiores
-2. **Racionamiento** de tabaco: 1 pipa por guardia cada 3 días
-3. **Castigo**: Limpiar letrinas por un mes a quien incumpliera
-
-*"El Muro nos congela, pero esto nos mata"* declaró ante la sorpresa de todos. Tormund Rugidofuerte fue el primero en romper su pipa contra las piedras, aunque luego lo sorprendieron fumando a escondidas en los bosques de Haunted.
-
-> *"Prefiero morder el polvo que dejar de morder mi pipa"* - Últimas palabras de Dolorous Edd antes de caer de la escalera mientras intentaba encender un cigarrillo con manos entumecidas.
-
-### Capítulo 3: La Reina de los Ceniceros
-
-La Gran Pirámide de Meereen olía a jazmín y menta falsa. Daenerys Targaryen observaba desde su balcón cómo sus dragones jugueteaban con columnas de humo:
-
-*"Mis hijos inhalan esto cada día"*, dijo al Consejo. *"¿Qué clase de madre permitiría tal veneno?"*
-
-Su decreto fue tajante:
-- **Quema** de plantaciones de tabaco
-- **Multas** a mercaderes
-- **Ejecución** para contrabandistas
-
-Pero los Hijos de la Arpía respondieron con **"El Regalo del Harpón"**: cigarrillos envenenados con:
-- Polvo de hueso de dragón
-- Veneno de escorpión
-- Una pizca de tabaco para disimular
-
-Missandei encontró a tres Inmaculados muertos con sonrisas negras y colillas entre los dedos.
-
-> *"En Meereen se venden dos tipos de muerte"* susurraban los esclavos en los mercados. *"La rápida con cuchillo, y la lenta con humo"*.
-
----
-
-
-## Interludio: Cantos de Taberna
-
-*(Fragmento de canción popular en las Tierras de los Ríos)*
-
-🎶 *"El dragón tiene tres cabezas,*  
-*y el fumador tres cajetillas,*  
-*una para la mañana,*  
-*una para la noche,*  
-*y otra para cuando el invierno llegue..."* 🎶
-
-# Libro Segundo: La Guerra de los Vapeadores
 
 ## Prólogo: El Humo de R'hllor
 
@@ -137,15 +64,9 @@ Cersei hizo quemar el cuerpo con **"Honores Reales"**: 21 salvas de arcabuces ca
 
 > *"Un Baratheon vive por la furia... y muere por los excesos"* - Tyrion Lannister brindando con agua.
 
----
-
-# Libro Tercero: El Dragón de Hierbas
-
-## Prólogo: La Ciudadela de los Remedios
+## Interludio: La Ciudadela de los Remedios
 
 Cuando los archimaestres de Antigua abrieron la cámara secreta de Ebrose, encontraron pergaminos valyrios que hablaban de **"La Gran Purga"**: cómo los dragones limpiaban sus pulmones con vapor de hierbas. El debate comenzó esa misma noche.
-
----
 
 ## Capítulo 6: El Juicio de los Parches
 
@@ -164,7 +85,6 @@ El Conclave se dividió en tres facciones:
    - Creían que el vidriagón filtraba toxinas
 
 El maestre Marwyn resolvió el conflicto con un experimento: hizo fumar a tres ratones con cada método. Solo sobrevivió el que masticó hierbas.
-
 ---
 
 ## Capítulo 7: El Último Vapeador
