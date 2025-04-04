@@ -51,6 +51,7 @@ Así nació el Juramento del Fumador. No un juramento hecho en voz alta, ni sell
 Pero como cualquier pacto en Poniente, también puede romperse. Y quienes lo han roto, los que han dejado atrás ese humo encantador, lo describen como escapar de un hechizo. Como despertar de un largo sueño y descubrir que el aire puro —el verdadero aliento de vida— estaba esperando más allá de la niebla.
 
 ✧ Juramento Prohibido ✧
+>
 Hoy, ante mí mismo y el viento que aún no he respirado,
 declaro mi ruptura con el humo que me ató.
 He servido al fuego sin llama, al suspiro envenenado,
@@ -68,7 +69,7 @@ Que este juramento me recuerde:
 mi voluntad es más fuerte que el humo.
 Mi vida, más valiosa que el hábito.
 Y mi aliento, por fin, es mío.
-
+>
 ---
 
 ## Capítulo 2: El Lord de los Cigarrillos  
