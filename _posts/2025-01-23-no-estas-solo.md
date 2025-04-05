@@ -10,8 +10,8 @@ tags:
   #- standard
   - main
 header:
-  teaser: /assets/images/lavenders-1595584_1280.jpg
-  overlay_image: /assets/images/lavenders-1595584_1280.jpg
+  teaser: /assets/images/bee-balm-938338_1280.jpg
+  overlay_image: /assets/images/bee-balm-938338_1280.jpg
   overlay_filter: rgba(0, 0, 0, 0.2)
   # overlay_filter: rgba(255, 0, 0, 0.5)
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
