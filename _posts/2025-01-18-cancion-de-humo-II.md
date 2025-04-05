@@ -1,6 +1,6 @@
 ---
 title: "Canción de humo y brea II"
-nid: "18"
+nid: "18-2"
 excerpt_separator: "<!--more-->"
 categories:
   - Songs
