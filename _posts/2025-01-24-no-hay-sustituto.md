@@ -71,7 +71,8 @@ Al final, el fumador sabe que su ritual es un anacronismo en tiempos de pureza a
 >"Aquí yace quien prefirió
 >arder lento en su poesía
 >que apagarse sin brillar."
->
+
+
 [Lo quiero](../../purchase/)
 
 
