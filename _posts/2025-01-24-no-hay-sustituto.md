@@ -20,7 +20,7 @@ header:
       url: "/purchase/"
 ---
 
-Es especial. No lo entenderás si no has fumado habitualmente.
+No lo puedes entender si no has fumado de forma habitual.
 
 <!--more-->
 
@@ -40,6 +40,38 @@ La toxicidad es real pero también lo es la magia: ese instante en que todo el c
 
 Al final, el fumador sabe que su ritual es un anacronismo en tiempos de pureza artificial. Pero sigue encendiendo sus cigarrillos con la solemnidad de un sacerdote que sabe que su religión está condenada, porque hay verdades que sólo se revelan entre volutas azules y ceniza que cae lentamente. La paradoja perfecta: envenenarse para sentirse vivo, quemar los días para iluminar las noches, estar solo pero acompañado por el fantasma cálido que sube desde la punta encendida.
 
+>ELEGÍA DEL FUMADOR
+>
+>Quemé mis horas lentamente,
+>como tabaco entre los dedos,
+>hice del humo mi bandera
+>y de la brasa mi silencio.
+>
+>Cada calada fue un instante
+>robado al tiempo sin remedio,
+>pequeño suicidio dorado
+>que sabía a invierno y a puerto.
+>
+>En los bares, mis palabras
+>se enredaban en el humo espeso,
+>confesiones suspendidas
+>entre mi boca y el vacío.
+>
+>¡Oh ritual de contradicciones!
+>Veneno que alivia el veneno,
+>libertad que se consume
+>en la misma hoguera que la enciende.
+>
+>Ahora que se apaga el fuego
+>y el paquete está vacío,
+>sé que no fumaba tabaco...
+>fumaba el tiempo que me ardía.
+>
+>(Epitafio para una colilla:)
+>"Aquí yace quien prefirió
+>arder lento en su poesía
+>que apagarse sin brillar."
+>
 [Lo quiero](../../purchase/)
 
 
