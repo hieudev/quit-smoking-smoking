@@ -1,6 +1,6 @@
 ---
 permalink: /purchase/
-#redirect_to: /sold-out/
+redirect_to: /sold-out/
 title: "Links de compra"
 excerpt: "Links de compra"
 sitemap: false
