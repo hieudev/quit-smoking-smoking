@@ -1,5 +1,5 @@
 ---
-title: "No hay sustituto"
+title: "No hay alternativa"
 nid: "24"
 excerpt_separator: "<!--more-->"
 categories:
