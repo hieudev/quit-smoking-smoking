@@ -27,7 +27,6 @@ Si quieres puedes resolver tus dudas contactándonos por correo electrónico [qu
 # Preguntas Frecuentes sobre Nuestra Mezcla Herbal Única
 
 ### 1. ¿Qué hace única a su mezcla herbal?
-Nuestra fórmula patentada **"Aliento de Dragón"** combina:
 - Hierbas europeas de cultivo ecológico
 - Proporciones validadas experimentalmente
 - Proceso de curado artesanal de 21 días
@@ -39,13 +38,12 @@ Nuestra fórmula patentada **"Aliento de Dragón"** combina:
 - Saborizantes químicos
 
 ### 3. ¿Cuánto dura cada paquete?
-Dependiendo del uso:
 
 - Uso moderado (4-5 al día) **2 semanas aprox.**
 - Uso intensivo (8-10 al día)  **1 semana aprox.**
 
 ### 4. ¿Cuándo notaré los primeros beneficios?
-**Cronología de efectos**:
+
 - 24-48h: Mejor aliento y piel más oxigenada
 - 1 semana: Reducción notable de la tos
 - 3 semanas: Recuperación del gusto/olfato
