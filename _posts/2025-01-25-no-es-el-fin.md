@@ -1,5 +1,5 @@
 ---
-title: "No es el fin de nuestra historia juntos"
+title: "No es el final de nuestra historia"
 nid: "25"
 excerpt_separator: "<!--more-->"
 categories:
