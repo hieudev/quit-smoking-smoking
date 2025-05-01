@@ -3,7 +3,7 @@ title: "Recursos primarios"
 nid: "17"
 excerpt_separator: "<!--more-->"
 categories:
-  - AAA
+  - Important
 tags:
   #- Post Formats
   #- readability
