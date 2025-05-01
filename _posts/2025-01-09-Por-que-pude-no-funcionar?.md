@@ -51,12 +51,17 @@ No salgo de fiesta rutinariamente, ni voy a eventos sociales como los partidos d
 Si tus amigos, compañeros de trabajo o familiares fuman, estarás constantemente expuesto al hábito. Es mucho más difícil resistirse cuando el tabaco forma parte de tu círculo cercano. Colabora y anima a dejar el hábito en equipo.
 
 ### **6. Sustitución del hábito oral y manual**  
-Estoy enganchado a escuchar podcast mientra hago cosas. Sin enchuchar algún podcast interesante el trabajo por ejemplo me parece insípido. Podría considerarse una droga también, talvez he sustituido el tabaco por más podcasts.
+Estoy enganchado a escuchar podcast mientra hago cosas. Sin enchuchar algún podcast interesante el trabajo por ejemplo me parece insípido. Podría considerarse una droga también, tal vez he sustituido el tabaco por más podcasts.
 
 Si no encuentras algo que sustituya el gesto de fumar el vacío que deja el cigarrillo puede ser insoportable.  
 
-## **Conclusión: El contexto es importante**  
-Este método me funcionó porque mi entorno y mis circustancias lo facilitaron. Si a ti no te da resultado, no significa que estés haciéndolo mal, sino que quizá necesites ajustar otros aspectos de tu vida antes de poder dejarlo definitivamente. La clave está en analizar **tus circunstancias** y adaptar la estrategia.  
+### **7. Otras circunstancias**
+Reconozco que hay otras circunstancias que aunque no viví personalmente, pueden ser igual o más efectivas para dejar el tabaco. El contacto con personas que han superado la adicción proporciona modelos a seguir y consejos prácticos. La práctica de deportes intensos no solo ocupa el tiempo sino que mejora notablemente la capacidad pulmonar, haciendo evidente el daño del tabaco. Un cambio radical de entorno como una mudanza o viaje prolongado ayuda a romper con los rituales asociados al cigarrillo al eliminar los lugares y situaciones que solían disparar el deseo de fumar.
+
+La alimentación también juega un papel importante. Consumir alimentos ricos en vitamina C acelera la eliminación de nicotina del organismo, mientras que mantener una buena hidratación y evitar sustancias como el alcohol o el café que suelen asociarse con el tabaco puede reducir significativamente las tentaciones. Cada persona tiene un conjunto único de circunstancias que pueden favorecer o dificultar el proceso, por lo que identificar y potenciar aquellas que trabajan a nuestro favor puede marcar la diferencia entre el éxito y la recaída.
+
+
+
 
 
 
