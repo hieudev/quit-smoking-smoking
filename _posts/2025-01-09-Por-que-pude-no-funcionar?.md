@@ -3,7 +3,7 @@ title: "Por qué puede no funcionar?"
 nid: "9"
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal
+  - Guide
 tags:
   #- Post Formats
   #- readability
@@ -26,13 +26,19 @@ A mi me funciono, por qué a tí no?
 
 Yo te cuento mis circustancias y el porqué pienso que tienen relación.
 
-Trabajo en un sitio solitario. Sin ningún tipo de comercio cerca donde pueda conseguir tabaco fácilmente.
+Trabajo en un sitio apartado. Sin ningún tipo de comercio cerca donde pueda conseguir tabaco fácilmente.
+
 Siempre ocupo mi tiempo, el único rato que tengo para perder son los 10 último minutos del día en los que me pongo algún stream y me duermo. Si ese día he tomado café, puede que me quede más rato.
+
 Tengo hijos.
+
 Tengo problemas respiratorios, concretamente asma.
+
 Fumaba cannabiloides.
+
 No me reuno con colegas rutinariamente. No voy a fiestas ni a acividades sociales como partidos de futbol.
-Estoy enganchado a los podcast por youtube, lo hacía cunado fumada y lo sigo haciendo ahora que ya no fumo.
+
+Estoy enganchado a escuchar podcast por youtube, lo hacía cuando fumada y lo sigo haciendo ahora que ya no fumo. Si no estoy escuchando algo interesante hago poca cosa o lo hago desmotivado.
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit nec a tempus, senectus non scelerisque lectus facilisis laoreet sed ultricies justo, ligula sollicitudin dapibus malesuada posuere dis fermentum nunc per. Laoreet accumsan at vehicula etiam tincidunt, nisi et cum sed, curabitur senectus facilisi vulputate. Netus vehicula justo malesuada sed quis convallis dignissim proin condimentum, non fringilla magnis urna fusce aliquam ultricies ultrices montes eleifend, vel habitant mattis mi dui metus nulla augue.
 
