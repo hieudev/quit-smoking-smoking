@@ -93,3 +93,5 @@ La mezcla de hierbas no es una solución mágica, pero sí un apoyo real para qu
 Al integrar ingredientes relajantes, desintoxicantes y refrescantes, esta mezcla ofrece una alternativa natural para reducir la ansiedad, reemplazar el hábito y mejorar la salud general.  
 
 Cada día sin tabaco es un paso hacia una vida más sana y libre. Si estás listo para empezar el cambio, esta mezcla puede ser el aliado que estabas buscando. 🌿
+
+[Lo quiero](../../purchase/)
