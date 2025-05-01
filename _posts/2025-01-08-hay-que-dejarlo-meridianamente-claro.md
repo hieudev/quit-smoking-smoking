@@ -3,7 +3,7 @@ title: "Hay que dejarlo meridianamente claro"
 nid: "8"
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal
+  - Guide
 tags:
   #- Post Formats
   #- readability
@@ -32,7 +32,7 @@ Algunos críticos argumentan que un método basado en "dejar de fumar fumando" e
 
 Pero esta visión es reduccionista y cínicamente mercantilista. Asume que el valor de un producto se mide únicamente por su rentabilidad y no por su impacto en la calidad de vida de las personas. Si una empresa sólo puede sostenerse manteniendo a sus clientes enfermos o dependientes, entonces su modelo es éticamente insostenible.  
 
-## Los verdaderos obstáculos: desinformación y poderes ocultos  
+## Los verdaderos obstáculos: 
 
 Nosotros sostenemos que lo que frena la expansión de alternativas reales para dejar de fumar no es una falla en el concepto, sino dos factores mucho más profundos:  
 
