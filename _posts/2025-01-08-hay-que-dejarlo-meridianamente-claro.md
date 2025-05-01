@@ -42,6 +42,6 @@ Nosotros sostenemos que lo que frena la expansión de alternativas reales para d
 
 Si este método ayuda a miles a liberarse del tabaco, aunque eso implique "perder clientes", entonces su éxito será incuestionable. La verdadera medida de su valor no está en las ganancias, sino en los años de vida recuperados, en los cánceres evitados y en la autonomía reconquistada.  
 
-El humo nubla la razón, pero la decisión debe ser meridiana: o seguimos esclavizados por el tabaco, o cortamos el cordón de una vez. Y cuanto antes, mejor.  
+El humo nubla la razón, pero la meta es meridiana.
 
 [Lo quiero](../../purchase/)
