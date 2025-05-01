@@ -44,16 +44,16 @@ Tener hijos cambia la perspectiva. Saber que mi salud afecta directamente a mi f
 ### **4. Problemas respiratorios: el recordatorio constante**  
 Sufro de asma, y cada vez que fumaba, notaba cómo empeoraba mi capacidad pulmonar. Las hierbas, al no llevar tabaco ni aditivos químicos, no irritaban mis vías respiratorias de la misma manera. Esto me hacía consciente de que estaba haciendo algo menos dañino, lo que reforzaba mi decisión.  
 
-Si tus amigos, compañeros de trabajo o familiares fuman, estarás constantemente expuesto al hábito. Es mucho más difícil resistirse cuando el tabaco forma parte de tu círculo cercano. Colabora y anima a dejar el hábito en equipo.
 
 ### **5. Ausencia de rituales sociales asociados al tabaco**  
 No salgo de fiesta rutinariamente, ni voy a eventos sociales como los partidos de fútbol o reuniones con amigos de forma asidua o periódicamente. 
 
-Si no encuentras algo que sustituya el gesto de fumar (como en mi caso los podcasts o las mezclas de hierbas), el vacío que deja el cigarrillo puede ser insoportable.  
+Si tus amigos, compañeros de trabajo o familiares fuman, estarás constantemente expuesto al hábito. Es mucho más difícil resistirse cuando el tabaco forma parte de tu círculo cercano. Colabora y anima a dejar el hábito en equipo.
 
 ### **6. Sustitución del hábito oral y manual**  
 Estoy enganchado a escuchar podcast mientra hago cosas. Sin enchuchar algún podcast interesante el trabajo por ejemplo me parece insípido. Podría considerarse una droga también, talvez he sustituido el tabaco por más podcasts.
 
+Si no encuentras algo que sustituya el gesto de fumar el vacío que deja el cigarrillo puede ser insoportable.  
 
 ## **Conclusión: El contexto es importante**  
 Este método me funcionó porque mi entorno y mis circustancias lo facilitaron. Si a ti no te da resultado, no significa que estés haciéndolo mal, sino que quizá necesites ajustar otros aspectos de tu vida antes de poder dejarlo definitivamente. La clave está en analizar **tus circunstancias** y adaptar la estrategia.  
