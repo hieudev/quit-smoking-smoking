@@ -20,7 +20,7 @@ header:
       url: "/purchase/"
 ---
 
-A mi me funciono, por qué a tí no?
+A mi me funcionó, por qué a tí no?
 
 <!--more-->
 
@@ -44,7 +44,7 @@ Tener hijos cambia la perspectiva. Saber que mi salud afecta directamente a mi f
 ### **4. Problemas respiratorios: el recordatorio constante**  
 Sufro de asma, y cada vez que fumaba, notaba cómo empeoraba mi capacidad pulmonar. Las hierbas, al no llevar tabaco ni aditivos químicos, no irritaban mis vías respiratorias de la misma manera. Esto me hacía consciente de que estaba haciendo algo menos dañino, lo que reforzaba mi decisión.  
 
-Si tus amigos, compañeros de trabajo o familiares fuman, estarás constantemente expuesto al hábito. Es mucho más difícil resistirse cuando el tabaco forma parte de tu círculo cercano. Colabora y anima a dejar el hábito juntos.
+Si tus amigos, compañeros de trabajo o familiares fuman, estarás constantemente expuesto al hábito. Es mucho más difícil resistirse cuando el tabaco forma parte de tu círculo cercano. Colabora y anima a dejar el hábito en equipo.
 
 ### **5. Ausencia de rituales sociales asociados al tabaco**  
 No salgo de fiesta rutinariamente, ni voy a eventos sociales como los partidos de fútbol o reuniones con amigos de forma asidua o periódicamente. 
