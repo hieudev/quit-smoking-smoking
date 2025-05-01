@@ -26,8 +26,6 @@ A mi me funcionó, por qué a tí no?
 
 El método de sustituir el tabaco por mezclas de hierbas para dejar de fumar no es una solución universal. Lo que a mí me funcionó puede que a ti no, y eso no significa que el sistema sea inválido, sino que nuestras circunstancias, hábitos y psicología son distintos. Aquí te explico por qué en mi caso dio resultado y qué factores podrían hacer que a otra persona no le sirva.  
 
-## **Por qué a mí me funcionó**  
-
 ### **1. Aislamiento geográfico: la barrera física**  
 Trabajo en un lugar apartado, lejos de tiendas o sitios donde pueda comprar tabaco fácilmente. Si en un momento de debilidad me daban ganas de fumar, no tenía acceso inmediato a cigarrillos. Esta dificultad logística actuó como un filtro, obligándome a aguantar el impulso hasta que pasara.
 
@@ -43,7 +41,6 @@ Tener hijos cambia la perspectiva. Saber que mi salud afecta directamente a mi f
 
 ### **4. Problemas respiratorios: el recordatorio constante**  
 Sufro de asma, y cada vez que fumaba, notaba cómo empeoraba mi capacidad pulmonar. Las hierbas, al no llevar tabaco ni aditivos químicos, no irritaban mis vías respiratorias de la misma manera. Esto me hacía consciente de que estaba haciendo algo menos dañino, lo que reforzaba mi decisión.  
-
 
 ### **5. Ausencia de rituales sociales asociados al tabaco**  
 No salgo de fiesta rutinariamente, ni voy a eventos sociales como los partidos de fútbol o reuniones con amigos de forma asidua o periódicamente. 
