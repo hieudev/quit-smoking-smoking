@@ -24,7 +24,7 @@ Tres tristes días. O cuatro.
 
 <!--more-->
 
-Los primeros 96 horas tras el último cigarrillo constituyen un territorio desconocido para el cuerpo y la mente. No se trata simplemente de "aguantar" sino de atravesar una transformación fisiológica brutal donde cada sistema corporal reclama su dosis habitual de nicotina. El organismo, acostumbrado durante años a funcionar con este estimulante externo, entra en un estado de confusión cuando deja de recibirlo.  
+Las primeras 96 horas tras el último cigarrillo constituyen un territorio desconocido para el cuerpo y la mente. No se trata simplemente de "aguantar" sino de atravesar una transformación fisiológica brutal donde cada sistema corporal reclama su dosis habitual de nicotina. El organismo, acostumbrado durante años a funcionar con este estimulante externo, entra en un estado de confusión cuando deja de recibirlo.  
 
 A los 20 minutos del último pitillo comienza el primer ajuste. La presión arterial y el pulso, que la nicotina mantenía artificialmente elevados, inician su descenso hacia niveles normales. Esta caída brusca produce una sensación de vacío circulatorio, como si la sangre fluyera más despacio. Las manos pueden sentirse extrañamente livianas, casi ajenas al cuerpo. Es el primer aviso de que algo ha cambiado.  
 
