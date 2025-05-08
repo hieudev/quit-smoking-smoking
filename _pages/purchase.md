@@ -9,8 +9,8 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.2)
 ---
 
-Producto Único 20 euros
+Links que redirigen a la pasarela de pago donde se gestionará el pedido y envío
 
-[comprar mezcla herbal por Stripe](https://buy.stripe.com/test_6oE02Geu8gdy3ja288)
+[Adquirir mezcla herbal por Stripe (20 euros)](https://buy.stripe.com/test_6oE02Geu8gdy3ja288)
 
 [quitsmokingsmokingteam@gmail.com](mailto:quitsmokingsmokingteam@gmail.com)
