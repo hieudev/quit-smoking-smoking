@@ -1,5 +1,5 @@
 ---
-title: "Ocho días después"
+title: "28 semanas después"
 nid: "28"
 excerpt_separator: "<!--more-->"
 categories:
