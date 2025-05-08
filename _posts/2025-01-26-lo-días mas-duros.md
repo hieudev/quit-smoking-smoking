@@ -1,6 +1,6 @@
 ---
 title: "Los días más duros"
-nid: "25"
+nid: "26"
 excerpt_separator: "<!--more-->"
 categories:
   - Guide
