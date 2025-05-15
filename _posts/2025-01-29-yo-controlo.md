@@ -3,7 +3,7 @@ title: "Yo controlo"
 nid: "30"
 excerpt_separator: "<!--more-->"
 categories:
-  - Guide
+  - Personal
 tags:
   #- Post Formats
   #- readability
@@ -24,7 +24,7 @@ Te lo digo en serio.
 
 <!--more-->
 
-Yo tengo el control. Eso me digo. Que fumo cuando quiero, no porque lo necesite. Que si hoy me enciendo uno, es porque me apetece, porque me gusta, porque sí. Que podría no hacerlo, claro que podría. Lo he hecho muchas veces. Días enteros sin fumar. Horas. Mañanas. Algunas tardes. Me he dicho "hoy no", y a veces lo he cumplido. Otras veces no, pero eso no importa, porque la decisión es mía. Nadie me obliga. Nadie me empuja. Nadie me domina.
+Yo tengo el control. Fumo cuando quiero, no porque lo necesite. Que si hoy me enciendo uno, es porque me apetece, porque me gusta, porque sí. Que podría no hacerlo, claro que podría. Lo he hecho muchas veces. Días enteros sin fumar. Horas. Mañanas. Algunas tardes. Me he dicho "hoy no", y lo he cumplido. Pero eso no importa, porque la decisión es mía. Nadie me obliga. Nadie me empuja. Nadie me domina.
 
 Yo controlo. Enciendo el cigarro porque me da la gana, no porque me lo pida el cuerpo. No porque lo eche de menos. No porque me tiemble el ánimo si no lo tengo. No. Es solo un placer pequeño, un gesto, una pausa. Puedo dejarlo si quiero. Lo he dicho muchas veces. Incluso lo he probado. He tirado paquetes, he prometido a gente, he respirado profundo al salir de la cama y me he dicho “se acabó”. Y durante un rato fue verdad. Y luego, bueno… luego volví. Pero no porque no pudiera resistirme, sino porque quise. Porque no pasaba nada por uno. Uno no es caer. Uno es elegir.
 
