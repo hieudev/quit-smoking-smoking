@@ -20,7 +20,7 @@ header:
       url: "/purchase/"
 ---
 
-A mi me funcionó, por qué a tí no?
+A mi me funcionó.
 
 <!--more-->
 
