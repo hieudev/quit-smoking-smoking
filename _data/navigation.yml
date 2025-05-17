@@ -3,8 +3,8 @@ main:
     url: /quick-start/
   - title: "Categories"
     url: /categories/
-  - title: "Sitemap"
-    url: /sitemap/
+  #- title: "Sitemap"
+  #  url: /sitemap/
   #- title: "Posts"
   #  url: /posts/
   # - title: "Tags"
