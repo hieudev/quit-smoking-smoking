@@ -10,8 +10,8 @@ tags:
   #- standard
   - main
 header:
-  teaser: /assets/images/coffee-beans-5928012_1280.jpg
-  overlay_image: /assets/images/coffee-beans-5928012_1280.jpg
+  teaser: /assets/images/flower-field-250016_1280.jpg
+  overlay_image: /assets/images/flower-field-250016_1280.jpg
   overlay_filter: rgba(0, 0, 0, 0.2)
   # overlay_filter: rgba(255, 0, 0, 0.5)
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
