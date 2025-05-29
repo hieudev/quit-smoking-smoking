@@ -1,5 +1,5 @@
 ---
-title: "Los días más duros"
+title: "Los días más oscuros"
 nid: "26"
 excerpt_separator: "<!--more-->"
 categories:

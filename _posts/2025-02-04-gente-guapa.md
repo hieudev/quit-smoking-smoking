@@ -19,6 +19,7 @@ header:
     - label: "Lo quiero"
       url: "/purchase/"
 ---
+
 ¿Saben qué es raro? Fumar.
 
 <!--more-->
