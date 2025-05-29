@@ -3,7 +3,7 @@ title: "Canción de humo y brea I"
 nid: "18-1"
 excerpt_separator: "<!--more-->"
 categories:
-  - Songs
+  - Song
 tags:
   #- Post Formats
   #- readability

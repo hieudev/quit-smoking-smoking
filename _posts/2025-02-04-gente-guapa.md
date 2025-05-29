@@ -3,7 +3,7 @@ title: "Fumar: ese hobby de gente guapa que huele a cenicero"
 nid: "34"
 excerpt_separator: "<!--more-->"
 categories:
-  - Songs
+  - Song
 tags:
   #- Post Formats
   #- readability

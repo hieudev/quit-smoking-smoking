@@ -3,7 +3,7 @@ title: "Choque de ceniceros II"
 nid: "19-2"
 excerpt_separator: "<!--more-->"
 categories:
-  - Songs
+  - Song
 tags:
   #- Post Formats
   #- readability
