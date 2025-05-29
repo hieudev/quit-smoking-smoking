@@ -19,7 +19,6 @@ header:
     - label: "Lo quiero"
       url: "/purchase/"
 ---
-(Edition on)
 ¿Saben qué es raro? Fumar.
 
 <!--more-->
@@ -29,9 +28,6 @@ Fumar. Esa actividad que parece haber sido inventada por alguien que estaba abur
 —“¡Hey! ¡Esto arde en la garganta y me hace toser sangre… debe ser fabuloso!”
 
 No, en serio. Fumar es como pagar por que tu boca huela como si besaras a un dragón alcohólico que acaba de despertarse de una siesta dentro de un contenedor en llamas. Y lo peor es que en los años 50, esto era glamuroso. Humphrey Bogart lo hacía. Lauren Bacall lo hacía. Mi tía Estelle lo hacía... y también se echaba vodka en el cereal, así que puede que no sea la mejor fuente de inspiración.
-
-Y todos dijeron:
-—“¡Oh, brillante! ¡Démoselo a Hollywood!”
 
 ¿Pero quién decidió que meter humo en los pulmones era elegante? “¡Oh, miren, inhalé alquitrán ardiente y ahora parezco misteriosa! ¿O enferma? Bueno, ¡depende del filtro!”
 
@@ -49,12 +45,12 @@ En los años 50, la imagen de glamour era una mujer con rizos perfectos, piernas
 Sí, poder... para conseguir bronquitis en technicolor.
 
 Y las marcas, por supuesto. ¡Marcas!
-“Lucky Strike: It's toasted.”
+“Locko Straik: It's toasted.”
 ¿¡TOASTED!? ¿Qué es esto, un desayuno?
 Me imagino al publicista:
 —“Sí, sí… es tabaco con sabor a tostada quemada. ¡A la gente le encanta la comida calcinada que da cáncer!”
 
-Y fumar es caro. Antes costaba 25 centavos. Ahora… ¿qué es, un órgano vital por cajetilla? Si sigo así, para Navidad le regalo a mi primo un Marlboro y se lo envuelvo en oro. “¡Feliz Navidad, Joey! No te compres casa este año, ya tienes un cigarro.”
+Y fumar es caro. Antes costaba 25 centavos. Ahora… ¿qué es, un órgano vital por cajetilla? Si sigo así, para Navidad le regalo a mi primo un Marlvorro y se lo envuelvo en oro. “¡Feliz Navidad, Joey! No te compres casa este año, ya tienes un cigarro.”
 
 Y la publicidad. ¡Ah, la publicidad!
 “Fumar te relaja”, dicen.
@@ -69,20 +65,13 @@ Y no olvidemos los médicos.
 Los mismos que te decían:
 —“Estás algo nerviosa, señora Maisel. Tómese este sedante, esta pastilla para adelgazar, un cóctel y… fume un par de Camels. ¡Volverá a ser feliz, flaca y silenciosa!”
 
-“Los doctores fuman Camel.”
+“Los doctores fuman Kanmel.”
 ¿¡Qué!? ¡Claro que sí! También recetan jarabe con cocaína y recomiendan electroshock para la tristeza, ¡no me convencen!
 
 ¡Silenciosa! ¡Claro!
 Porque si fumas lo suficiente, te quedas sin voz, sin aliento y sin marido.
 Y en algunos casos, sin tráquea.
 ¡El colmo del glamour!
-
-Y me encanta cómo en las películas todos fuman durante el sexo.
-Durante.
-¿Se dan cuenta de lo ridículo que es eso?
-Yo apenas puedo decir “te amo” después, ¡imaginen prender un cigarro entre jadeos!
-Es como si la pasión dijera:
-—“Fue hermoso… ahora vamos a celebrar con monóxido de carbono.”
 
 Y la peor excusa:
 —“Fumar me ayuda a pensar.”
@@ -104,7 +93,6 @@ Una danza peligrosa con una chispa en la cara.
 Como bailar con un mafioso: seductor pero probablemente fatal.
 
 Y después, claro… las toses.
-
 Nada como una conversación sofisticada interrumpida por un espasmo pulmonar.
 —“Querida, París en la primavera es mágica COF COF JJJJJGHHHHHHH. Como decía...”
 
@@ -115,9 +103,6 @@ Esa gente que necesita fumar y además parecer filósofo.
 A veces me parece que el humo no sale de la boca, sino del ego.
 
 Y no hablemos del drama de dejarlo.
-
-Dejar de fumar convierte a la gente en monstruos.
-
 He visto hombres adultos llorar porque su último cigarro se les cayó en un charco.
 Y mujeres insultar al cielo.
 “¡¿Por qué me haces esto, Señor?! ¡Sólo pedí pulmones limpios y un poco de dignidad!”
@@ -125,7 +110,7 @@ Y mujeres insultar al cielo.
 
 Y el cigarro electrónico… no empecemos.
 Eso es fumar del futuro. Parece que estás besando a una tostadora triste.
-Y aún así, ahí están todos, exhalando vapor de vainilla como si fueran dragones dulzones de Disney.
+Y aún así, ahí están todos, exhalando vapor de vainilla como si fueran dragones dulzones de Misney.
 
 Claro. ¿Y por qué no?
 Ya puestos, vamos a moler ladrillo, freírlo, olerlo y ver si nos da inspiración.
