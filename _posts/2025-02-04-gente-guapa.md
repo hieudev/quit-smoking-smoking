@@ -22,7 +22,6 @@ header:
 ¿Saben qué es raro? Fumar.
 
 <!--more-->
-Por Miriam “Midge” Maisel — aproximadamente en 1959, con mucha laca y poca paciencia.
 
 Fumar. Esa actividad que parece haber sido inventada por alguien que estaba aburrido en una plantación, se tropezó, encendió algo por accidente y pensó:
 —“¡Hey! ¡Esto arde en la garganta y me hace toser sangre… debe ser fabuloso!”
@@ -117,6 +116,7 @@ Ya puestos, vamos a moler ladrillo, freírlo, olerlo y ver si nos da inspiració
 
 ¡Gracias, gracias! ¡Fumen menos, besen más, y si van a soplar humo, que sea por un buen chisme!
 
+_Por Miriam “Midge” Maisel — aproximadamente en 1959, con mucha laca y poca paciencia._
 
 
 [Lo quiero](../../purchase/)
