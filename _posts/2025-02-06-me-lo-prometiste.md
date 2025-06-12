@@ -3,7 +3,7 @@ title: "Me lo prometiste"
 nid: "36"
 excerpt_separator: "<!--more-->"
 categories:
-  - Song
+  - Personal
 tags:
   #- Post Formats
   #- readability
@@ -20,11 +20,9 @@ header:
       url: "/purchase/"
 ---
 
-Me lo prometiste.
+Querido papá,
 
 <!--more-->
-
-Querido papá,
 
 ¿Te acuerdas cuando me prometiste que siempre estarías conmigo? Yo sí. Lo recuerdo como si fuera ayer. Fue una tarde de verano, cuando el sol se ponía y pintaba el cielo de naranja. Estábamos en el parque, y yo, con mis manos pequeñas, me aferraba a tu dedo meñique como si fuera mi ancla en el mundo. Tú me miraste, sonreíste y dijiste: "Nunca te dejaré sola. Pase lo que pase, siempre estaré aquí."
 
