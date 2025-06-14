@@ -3,7 +3,7 @@ title: "Te lo vendo"
 nid: "32"
 excerpt_separator: "<!--more-->"
 categories:
-  - Guide
+  - Personal
 tags:
   #- Post Formats
   #- readability
