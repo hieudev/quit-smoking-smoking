@@ -8,8 +8,7 @@ tags:
   #- Post Formats
   #- readability
   #- standard
-  - main
-  - personal
+  - Decisión
 header:
   teaser: /assets/images/leaf-3504797_1280.jpg
   overlay_image: /assets/images/leaf-3504797_1280.jpg

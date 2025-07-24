@@ -8,7 +8,7 @@ tags:
   #- Post Formats
   #- readability
   #- standard
-  - main
+  - Decisión
 header:
   teaser: /assets/images/flower-field-250016_1280.jpg
   overlay_image: /assets/images/flower-field-250016_1280.jpg

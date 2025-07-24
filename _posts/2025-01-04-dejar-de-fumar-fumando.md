@@ -8,7 +8,7 @@ tags:
   #- Post Formats
   #- readability
   #- standard
-  - main
+  - Sustitución
 header:
   teaser: /assets/images/sage-2666127_1280.jpg
   overlay_image: /assets/images/sage-2666127_1280.jpg

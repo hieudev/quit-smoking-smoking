@@ -8,7 +8,7 @@ tags:
   #- Post Formats
   #- readability
   #- standard
-  - main
+  - Decisión
 header:
   teaser: /assets/images/crocus-6137701_1280.jpg
   overlay_image: /assets/images/crocus-6137701_1280.jpg

@@ -8,7 +8,7 @@ tags:
   #- Post Formats
   #- readability
   #- standard
-  - main
+  - Apoyo
 header:
   teaser: /assets/images/chrysanthemum-7707028_1280.jpg
   overlay_image: /assets/images/chrysanthemum-7707028_1280.jpg

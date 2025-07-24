@@ -8,7 +8,7 @@ tags:
   #- Post Formats
   #- readability
   #- standard
-  - main
+  - Sustitución
 header:
   teaser: /assets/images/knapweed-1388612_1280.jpg
   overlay_image: /assets/images/knapweed-1388612_1280.jpg

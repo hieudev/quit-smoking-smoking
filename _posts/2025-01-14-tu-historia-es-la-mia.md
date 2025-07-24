@@ -7,8 +7,8 @@ categories:
 tags:
   #- Post Formats
   #- readability
-  #- standard
-  - main
+  - Apoyo
+  - Decisión
 header:
   teaser: /assets/images/lavenders-1595584_1280.jpg
   overlay_image: /assets/images/lavenders-1595584_1280.jpg

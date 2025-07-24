@@ -8,7 +8,7 @@ tags:
   #- Post Formats
   #- readability
   #- standard
-  - main
+  - Apoyo
 header:
   teaser: /assets/images/bee-balm-938338_1280.jpg
   overlay_image: /assets/images/bee-balm-938338_1280.jpg

@@ -8,7 +8,7 @@ tags:
   #- Post Formats
   #- readability
   #- standard
-  - main
+  - Decisión
 header:
   teaser: /assets/images/flora-3126821_1280.jpg
   overlay_image: /assets/images/flora-3126821_1280.jpg

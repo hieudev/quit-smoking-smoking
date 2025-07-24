@@ -8,7 +8,7 @@ tags:
   #- Post Formats
   #- readability
   #- standard
-  - main
+  - Apoyo
 header:
   teaser: /assets/images/leaves-6721582_1280.jpg
   overlay_image: /assets/images/leaves-6721582_1280.jpg
