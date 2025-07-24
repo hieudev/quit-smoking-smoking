@@ -19,7 +19,7 @@ header:
     - label: "Lo quiero"
       url: "/purchase/"
 ---
-Puedes resolver tus dudas contactándonos directamente [quitsmokingsmokigteam@gmail.com](mailto:quitsmokingsmokigteam@gmail.com)
+Puedes resolver tus dudas contactándonos directamente [quitsmokingsmokingteam@gmail.com](mailto:quitsmokingsmokingteam@gmail.com)
 
 
 <!--more-->
