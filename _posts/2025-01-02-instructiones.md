@@ -40,4 +40,4 @@ Instrucciones y recomendaciones.
 
 - Este método no es milagroso, pero es efectivo. Te ayuda a desintoxicarte de la nicotina mientras mantienes el **ritual** de fumar, algo que para muchos es una parte importante del proceso.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
