@@ -36,6 +36,6 @@ El giro crucial llegó con los estudios epidemiológicos de los años 50 y 60. E
 
 En el siglo XXI, el tabaco enfrenta nuevos desafíos y transformaciones. Los cigarrillos electrónicos y productos de tabaco caliente prometen reducción de daños pero generan controversia sobre su papel como puerta de entrada al tabaquismo. Los países en desarrollo se han convertido en el principal mercado, mientras en Occidente las tasas de fumadores descienden lentamente. La OMS estima que el tabaco mata a más de 8 millones de personas anuales, combinando fumadores activos y pasivos. Lo que comenzó como planta ritual ahora es una crisis de salud pública global, demostrando cómo una sustancia puede transformar culturas, economías y cuerpos a lo largo de siglos. La historia del tabaco refleja nuestra compleja relación con los placeres peligrosos: desde su santificación ancestral hasta su demonización moderna, pasando por su masificación capitalista, sigue siendo un espejo de las contradicciones humanas.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
 
 

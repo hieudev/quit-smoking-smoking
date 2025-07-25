@@ -141,4 +141,4 @@ _**FIN**_
 
 
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

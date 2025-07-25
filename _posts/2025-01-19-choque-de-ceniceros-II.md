@@ -90,4 +90,4 @@ Las carcajadas estallaron, pero algunos escuchaban en silencio. Porque a veces, 
 
 _**FIN**_
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

@@ -57,9 +57,4 @@ Reconozco que hay otras circunstancias que aunque no viví personalmente, pueden
 
 La alimentación también juega un papel importante. Consumir alimentos ricos en vitamina C acelera la eliminación de nicotina del organismo, mientras que mantener una buena hidratación y evitar sustancias como el alcohol o el café que suelen asociarse con el tabaco puede reducir significativamente las tentaciones. Cada persona tiene un conjunto único de circunstancias que pueden favorecer o dificultar el proceso, por lo que identificar y potenciar aquellas que trabajan a nuestro favor puede marcar la diferencia entre el éxito y la recaída.
 
-
-
-
-
-
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

@@ -47,6 +47,6 @@ Cuando una droga se normaliza hasta este punto, ni siquiera la llamamos droga. L
 
 Pero tranquilo, sigue comprándolo en el súper junto a la leche y los huevos. Sigue creyendo que es distinto a otras sustancias. Después de todo, si fuera realmente peligroso... ¿no estaría prohibido? Así funciona el juego. Mientras, el tabaco sigue ahí, en el mostrador, esperando a que pagues sin preguntarte por qué esta droga en particular viene con IVA incluido y estampillas sanitarias.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
 
 

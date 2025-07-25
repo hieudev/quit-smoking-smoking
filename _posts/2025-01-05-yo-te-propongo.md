@@ -57,4 +57,4 @@ Después de los tres días, notarás que los niveles de ansiedad comienzan a dis
 
 Este método no es una solución mágica, pero es una herramienta poderosa para quienes buscan dejar el tabaco de manera gradual y consciente.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

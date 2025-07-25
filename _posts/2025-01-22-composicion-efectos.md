@@ -94,4 +94,4 @@ Al integrar ingredientes relajantes, desintoxicantes y refrescantes, esta mezcla
 
 Cada día sin tabaco es un paso hacia una vida más sana y libre. Si estás listo para empezar el cambio, esta mezcla puede ser el aliado que estabas buscando. 🌿
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

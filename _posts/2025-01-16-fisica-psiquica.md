@@ -52,4 +52,4 @@ Sin embargo, entender esta dualidad es el primer paso para romper el ciclo. Reco
 
 Porque, al final, dejar de fumar no es solo un acto de salud, sino también un acto de libertad. Es la decisión de romper con un ciclo que nos limita y de abrirnos a una vida más plena, más consciente y más auténtica.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

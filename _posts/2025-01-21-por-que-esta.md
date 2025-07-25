@@ -39,4 +39,4 @@ Dejar de fumar es un proceso personal, y cada camino es diferente. Algunos lo lo
 ### **Únete a la Comunidad del Cambio**  
 Más allá de la mezcla, estamos construyendo una comunidad de personas que están tomando el control de su vida. Puedes compartir tu experiencia, leer historias de otros que han decidido dejar el tabaco, y encontrar motivación en cada pequeño logro. Porque dejar de fumar no es solo un cambio de hábito; es una celebración de tu salud y de tu poder personal. 🌱  
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

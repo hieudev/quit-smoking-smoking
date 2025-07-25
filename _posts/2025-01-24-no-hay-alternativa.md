@@ -73,6 +73,6 @@ Al final, el fumador sabe que su ritual es un anacronismo en tiempos de pureza a
 >que apagarse sin brillar."
 
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
 
 

@@ -49,6 +49,6 @@ Hacia el final de la primera semana, los síntomas agudos empiezan a ceder, pero
 Estos primeros días no son un obstáculo en el camino para dejar de fumar: son el camino mismo. Cada síntoma, por desagradable que sea, es la señal de que el organismo ha iniciado su proceso de desintoxicación. No hay atajos a través de esta fase, solo el paso inevitable a través de ella. La abstinencia no es el enemigo a vencer, sino el precio fisiológico que paga el cuerpo por recuperar su autonomía química.
 
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
 
 

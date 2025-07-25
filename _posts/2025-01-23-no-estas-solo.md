@@ -44,6 +44,6 @@ Porque dejar de fumar no es solo apagar un cigarrillo: es encender otra forma de
 
 Respiras, luego existes. Y cada vez que lo haces sin veneno, alguien más respira aliviado contigo.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
 
 

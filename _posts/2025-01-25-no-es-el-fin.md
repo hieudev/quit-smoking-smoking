@@ -39,6 +39,6 @@ Porque esto nunca fue solo sobre dejar de fumar. Fue sobre aprender a estar sin 
 "No se apaga un hábito de años sin dejar rastro. Pero las cenizas, al final, son solo eso: lo que queda cuando el fuego ya no quema."
 
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
 
 

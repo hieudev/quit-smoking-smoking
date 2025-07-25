@@ -50,6 +50,6 @@ A veces, cuando me despierto con el sabor de la última calada aún en la lengua
 
 Y así sigo, controlando. Controlando justo lo necesario para no sentir que he perdido el control del todo. Porque si algún día me lo quita alguien —la vida, el cuerpo, el miedo— entonces sabré que nunca fue mío para empezar. Pero mientras tanto, seguiré diciéndolo. Yo controlo. Yo tengo el control. Aunque solo sea para no escuchar la parte de mí que ya sabe la verdad.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
 
 

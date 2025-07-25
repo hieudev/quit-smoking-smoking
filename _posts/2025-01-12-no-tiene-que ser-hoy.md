@@ -36,4 +36,4 @@ Dejar de fumar no es solo una decisión física, sino mental y emocional. Es un 
 
 Así que no tiene que ser hoy, pero cuanto antes empieces, mejor. Hoy puedes investigar, buscar recursos, hablar con alguien de confianza o simplemente reflexionar sobre lo que significa para ti dejar de fumar. Porque cuando llegue el momento, estarás listo para dar ese paso, sabiendo que no estás solo, que hay recursos, que hay esperanza, y que, al final, valdrá la pena.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

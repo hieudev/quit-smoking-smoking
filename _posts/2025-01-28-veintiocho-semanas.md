@@ -34,6 +34,6 @@ El verdadero indicador de que has dejado atrás la adicción no es el tiempo que
 
 Esta seguridad no es arrogante ni ingenua. Conoces los peligros de la adicción porque los has vivido en carne propia. Pero también conoces tu nueva fortaleza. Puedes permitirte el lujo de no demonizar el tabaco, de reconocer que hubo momentos en que te dio placer, porque esa objetividad es la prueba definitiva de que ya no te controla. El fantasma de la recaída se ha disipado, no por ignorancia sino por transcendencia. Has reconfigurado tu identidad: ya no eres un fumador en recuperación, sino alguien que simplemente no fuma. Y esa diferencia, silenciosa pero radical, es la victoria más dulce de todas.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
 
 

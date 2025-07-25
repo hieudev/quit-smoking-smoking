@@ -120,6 +120,6 @@ Ya puestos, vamos a moler ladrillo, freírlo, olerlo y ver si nos da inspiració
 _Por Miriam “Midge” Maisel — aproximadamente en 1959, con mucha laca y poca paciencia._
 
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
 
 

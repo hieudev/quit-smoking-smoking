@@ -165,4 +165,4 @@ y el invierno... siempre llega." 🎶
 _**FIN**_ 
 
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

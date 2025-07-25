@@ -38,6 +38,6 @@ Tu historia es mi historia y es la historia de todos. Porque todos hemos buscado
 
 Porque esta historia no es solo sobre dejar de fumar. Es sobre la lucha interna, sobre la contradicción, sobre la hipocresía y la vergüenza, pero también sobre la esperanza, la resiliencia y la capacidad de cambiar. Es sobre aprender a vivir con nuestras sombras y, al mismo tiempo, buscar la luz. Es sobre ser humanos, **con todas nuestras imperfecciones**, y encontrar en ellas la belleza de lo que somos.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
 
 

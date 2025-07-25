@@ -139,4 +139,4 @@ Hay perjuicios en todo lo que hacemos.
 
 `#VidaSinHumo` `#BeneficiosReales` `#SaludRecuperada`
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

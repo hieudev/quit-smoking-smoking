@@ -39,8 +39,6 @@ El colmo de la ironía? Que incluso este momento de supuesta lucidez - esta reve
 
 Así que adelante, apaga este texto con un gesto de irritación. Enciende otro cigarrillo. Convéncete de que esta vez es diferente, de que tú sí controlas la situación, de que tu relación con el tabaco trasciende estas observaciones. Las corporaciones cuentan con que lo harás. Lo tienen todo mapeado. Incluso esta resistencia. Incluso esta negación. Porque el verdadero negocio nunca fue venderte tabaco, sino venderte la mentira de que eres diferente. Y funciona tan bien que seguirás fumando, seguirás creyéndote único, seguirás siendo el producto final perfecto de una máquina que no necesita tu originalidad - solo tu obediencia.
 
-
-
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
 
 

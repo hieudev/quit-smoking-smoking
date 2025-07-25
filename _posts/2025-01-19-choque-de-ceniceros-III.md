@@ -161,4 +161,4 @@ _**FIN**_
 
 🔥 `#WinterIsCoughing` 🚬 `#TheNorthRemembersToQuit`  
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

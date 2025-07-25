@@ -44,4 +44,4 @@ Si este método ayuda a miles a liberarse del tabaco, aunque eso implique "perde
 
 El humo nubla la razón, pero la meta es meridiana.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

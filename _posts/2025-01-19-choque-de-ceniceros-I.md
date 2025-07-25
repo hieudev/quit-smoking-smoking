@@ -125,7 +125,4 @@ Los parroquianos, entre lágrimas, arrojaban monedas a su capa raída. En los ri
 _**FIN**_
 
 
-
-
-
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

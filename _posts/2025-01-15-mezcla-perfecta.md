@@ -40,4 +40,4 @@ Hoy, **sigo experimentando**, ajustando, mejorando. Porque la mezcla perfecta no
 
 Porque, al final, la mezcla perfecta no es solo una combinación de hierbas. Es el resultado de mi paciencia, mi curiosidad y mi voluntad de cambiar. Es la prueba de que, con esfuerzo y dedicación, siempre hay una alternativa.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

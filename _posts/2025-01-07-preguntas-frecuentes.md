@@ -74,4 +74,4 @@ Lo entendemos. Dejar de fumar es un proceso emocional y sensorial. Si la mezcla 
 
 En nuestra web encontrarás artículos, relatos, experimentos narrativos y reflexiones personales. No todo es serio: creemos que el humor también cura. Puedes empezar por *Canción de Humo y Brea* o *Choque de Ceniceros* si te va lo épico, o leer nuestras recomendaciones más prácticas si buscas algo directo.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

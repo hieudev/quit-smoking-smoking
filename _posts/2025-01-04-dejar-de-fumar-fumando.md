@@ -70,4 +70,4 @@ Si estás interesado en probar este método, aquí tienes algunos pasos para com
 - Busca apoyo: Comparte tu experiencia con amigos o únete a comunidades en línea de personas que están dejando de fumar.
 
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)

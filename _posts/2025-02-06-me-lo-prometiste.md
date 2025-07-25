@@ -62,6 +62,6 @@ Atentamente,
 Tu hija... la del futuro, o la del presente (depende de cuándo esto te encuentre... si es que llegó a tiempo)... pero la que nunca, jamás, dejó de esperarte.
 
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
 
 

@@ -38,4 +38,4 @@ Así que, sigues siendo sus amigos. Los que fuman y los que no. Los que te apoya
 
 Al final, dejar de fumar no es solo un acto de amor propio, sino también una forma de reconectar con los demás desde un lugar más auténtico. Porque cuando respiras mejor, todos a tu alrededor **sienten el cambio**. Y eso, querido amigo, es lo que hace que valga la pena.
 
-[Lo quiero](../../purchase/)
+[**Lo quiero**](/purchase/)
