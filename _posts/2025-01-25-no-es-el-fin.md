@@ -9,6 +9,7 @@ tags:
   #- readability
   #- standard
   - Apoyo
+  - Decisión
 header:
   teaser: /assets/images/blue-4146301_1280.jpg
   overlay_image: /assets/images/blue-4146301_1280.jpg

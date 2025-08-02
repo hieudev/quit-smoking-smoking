@@ -9,6 +9,7 @@ tags:
   #- readability
   #- standard
   - Decisión
+  - Sustitución
 header:
   teaser: /assets/images/flower-9453063_1280.jpg
   overlay_image: /assets/images/flower-9453063_1280.jpg

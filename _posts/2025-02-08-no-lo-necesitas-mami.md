@@ -9,6 +9,7 @@ tags:
   #- readability
   #- standard
   - Decisión
+  - Apoyo
 header:
   teaser: /assets/images/clematis-6258010_1280.jpg
   overlay_image: /assets/images/clematis-6258010_1280.jpg

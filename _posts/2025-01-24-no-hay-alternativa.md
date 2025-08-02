@@ -9,6 +9,7 @@ tags:
   #- readability
   #- standard
   - Apoyo
+  - Decisión
 header:
   teaser: /assets/images/bloom-1838904_1280.jpg
   overlay_image: /assets/images/bloom-1838904_1280.jpg

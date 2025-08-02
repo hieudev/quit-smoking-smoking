@@ -8,6 +8,7 @@ tags:
   #- Post Formats
   #- readability
   #- standard
+  - Sustitución
   - Decisión
 header:
   teaser: /assets/images/crocus-2146535_1280.jpg

@@ -9,6 +9,7 @@ tags:
   #- readability
   #- standard
   - Decisión
+  - Apoyo
 header:
   teaser: /assets/images/thyme-2368664_1280.jpg
   overlay_image: /assets/images/thyme-2368664_1280.jpg

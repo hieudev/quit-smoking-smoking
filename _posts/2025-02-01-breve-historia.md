@@ -9,6 +9,7 @@ tags:
   #- readability
   #- standard
   - Decisión
+  - Apoyo
 header:
   teaser: /assets/images/flora-3126821_1280.jpg
   overlay_image: /assets/images/flora-3126821_1280.jpg
