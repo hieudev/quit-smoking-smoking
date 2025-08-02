@@ -10,8 +10,8 @@ tags:
   #- standard
   - Decisión
 header:
-  teaser: /assets/images/flowers-3571119_1280.jpg
-  overlay_image: /assets/images/flowers-3571119_1280.jpg
+  teaser: /assets/images/clematis-6258010_1280.jpg
+  overlay_image: /assets/images/clematis-6258010_1280.jpg
   overlay_filter: rgba(0, 0, 0, 0.2)
   # overlay_filter: rgba(255, 0, 0, 0.5)
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
