@@ -42,7 +42,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 date_format: "%Y-%m-%d"
 teaser: /assets/images/french-bulldog-7514725_1280.jpg
 logo: "/assets/images/main.png"
-show_date: true
+show_date: false
 
 include:
   - _pages
