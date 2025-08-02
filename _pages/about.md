@@ -16,3 +16,4 @@ Todo cambió un día bastante casual, aunque resultó ser un punto de inflexión
 Lo que comenzó como una solución improvisada se convirtió en un método que no solo me ayudó a mí, sino que ahora comparto con otros que buscan liberarse del hábito de fumar. Esta experiencia no solo cambió mi vida, sino que también me inspiró a ayudar a otros a encontrar su propio camino hacia una vida sin tabaco.
 
 [quitsmokingsmokingteam@gmail.com](mailto:quitsmokingsmokingteam@gmail.com)
+
