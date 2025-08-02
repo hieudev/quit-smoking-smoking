@@ -10,4 +10,4 @@ header:
 
 We're sorry, but we're out of stock. Please try again in the next few days.
 
-Envíanos un correo para azuzar al developer[quitsmokingsmokingteam@gmail.com](mailto:quitsmokingsmokingteam@gmail.com)
+Envíanos un correo para azuzar al developer --> [quitsmokingsmokingteam@gmail.com](mailto:quitsmokingsmokingteam@gmail.com)
