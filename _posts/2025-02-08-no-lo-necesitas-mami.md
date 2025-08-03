@@ -28,7 +28,7 @@ No lo necesitas.
 
 Ese cigarrillo que sostienes entre los dedos como si fuera parte de tu mano, ese humo que exhalas pensando que te da carácter, ese gesto de encenderlo cuando estás nerviosa o contenta o aburrida... no te hace falta. Porque tú ya eres todo lo interesante, lo fuerte, lo especial que crees que el cigarrillo te da. Solo que no te has dado cuenta.  
 
-No lo necesitas para ser misteriosa.  
+No lo necesitas mami, para ser misteriosa.  
 Tu risa cuando lees mis cuentos favoritos, ese brillo en los ojos cuando me ves dormir, incluso ese ceño fruncido cuando me regañas por no recoger los juguetes... eso ya te hace la mujer más fascinante del mundo. El humo no añade magia a lo que ya es mágico. Solo esconde por segundos la belleza que ya tienes.  
 
 No lo necesitas para ser fuerte.  
