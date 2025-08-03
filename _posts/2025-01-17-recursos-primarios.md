@@ -1,5 +1,5 @@
 ---
-title: "Recursos primarios"
+title: "**Recursos primarios"
 nid: "17"
 excerpt_separator: "<!--more-->"
 categories:
