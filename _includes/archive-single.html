@@ -25,12 +25,8 @@
       {% endif %}
     </h2>
     {% if post.excerpt %}
-    <p class="archive__item-excerpt" itemprop="description">
-
-    <div> {{post.excerpt | markdownify | strip_html | truncate: 160 }}</div>
-    <div>{{% include page__meta.html type=include.type %}}</div>
-    
-    </p>
+    <p class="archive__item-excerpt" itemprop="description">{{post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+    {{% include page__meta.html type=include.type %}}
     {% endif %}
   </article>
 </div>
