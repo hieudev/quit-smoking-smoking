@@ -21,7 +21,7 @@ header:
       url: "/purchase/"
 ---
 
-Somos ranas cocidas.
+Somos ranas hervidas.
 
 <!--more-->
 
