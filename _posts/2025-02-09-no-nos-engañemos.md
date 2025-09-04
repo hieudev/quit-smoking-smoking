@@ -21,7 +21,7 @@ header:
       url: "/purchase/"
 ---
 
-La nicotina es un mounstro final que nunca muere
+La nicotina es el monstruo final que nunca muere
 
 <!--more-->
 
