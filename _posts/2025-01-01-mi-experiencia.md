@@ -19,7 +19,11 @@ header:
       url: "/purchase/"
 ---
 Mi cese.
-Dejar de fumar no fue algo que planificara, simplemente sucedió, casi por casualidad, y de una manera que nunca imaginé que sería posible. No era un fumador empedernido, o al menos no me veía como tal. Lo hice durante más de 20 años. Fumaba tres o cuatro cigarrillos al día, muchos con extras, formaban parte de un ritual inquebrantable. Uno al empezar el día, otro al terminar la jornada, uno antes de dormir y, a veces, uno más como recompensa después de una tarea complicada. No me parecía que fumara en exceso, pero esos cigarrillos eran pilares en mi vida. Si no tenía suministro sentía que todo se desmoronaba. **Los amaba**, realmente creía que siempre estarían ahí.
+Dejar de fumar no fue algo que planificara, simplemente sucedió, casi por casualidad, y de una manera que nunca imaginé que sería posible. No era un fumador empedernido, o al menos no me veía como tal. 
+
+<!--more-->
+
+Lo hice durante más de 20 años. Fumaba tres o cuatro cigarrillos al día, muchos con extras, formaban parte de un ritual inquebrantable. Uno al empezar el día, otro al terminar la jornada, uno antes de dormir y, a veces, uno más como recompensa después de una tarea complicada. No me parecía que fumara en exceso, pero esos cigarrillos eran pilares en mi vida. Si no tenía suministro sentía que todo se desmoronaba. **Los amaba**, realmente creía que siempre estarían ahí.
 
 Intenté dejarlo. Enfermé e ingresé en el hospital en varias ocasiones, y cada vez que pensaba que era el momento perfecto para abandonar el hábito. Pero **siempre recaía**. Todos los días me acostaba con la firme decisión de no volver a fumar más, y cada mañana, casi sin pensarlo, encendía uno. Incluso logré dejarlo durante una semana en un par de ocasiones, una vez aguanté un mes entero. Al final siempre volvía. Era como caminar por una cuerda floja: un paso en falso y todo se venía abajo. La ansiedad, la falta de concentración, la sensación de que algo me faltaba… Era agotador.
 
