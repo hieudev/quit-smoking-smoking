@@ -17,9 +17,7 @@
       {{ content }}
       {% include after-content.html %}
 
-      <giscus>
-        hgfh
-      </giscus>
+
     </div>
 
     {% if site.search == true %}
@@ -27,20 +25,6 @@
         {% include_cached search/search_form.html %}
       </div>
     {% endif %}
-
-
-    <div id="footer" class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include_cached footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-
-
-  </body>
       <script src="https://giscus.app/client.js"
         data-repo="hieudev/qss-comments"
         data-repo-id="R_kgDOP8EJBg"
@@ -55,5 +39,19 @@
         data-lang="es"
         crossorigin="anonymous"
         async>
-</script>
+      </script>
+
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+
+
+  </body>
+
 </html>
