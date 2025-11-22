@@ -27,7 +27,7 @@ Mira, primero es querer.
 
 Mira, primero es querer. Si no quieres, es como cagar pa' dentro. Es imposible.
 
-Querer nace en la oscuridad de nuestro pecho y no se negocia, no se fuerza, no se sustituye. Es el acuerdo fundamental que firmamos con nosotros mismos antes de que ningún método, ninguna estrategia, ningún consejo externo pueda echar raíces.
+Querer nace en la oscuridad de nuestro pecho y no se negocia, no se fuerza, no se delega. Es el acuerdo fundamental que firmamos con nosotros mismos antes de que ningún método, ninguna estrategia, ningún consejo externo pueda echar raíces.
 
 Hemos buscado fuera lo que solo puede germinar dentro. Hemos llenado estantes de libros, carpetas de planes, noches de promesas, esperando que lo externo despertara lo interno. Pero ese "sí quiero" es la semilla que solo brota en el silencio de nuestra propia verdad.
 
