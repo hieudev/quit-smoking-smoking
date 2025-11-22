@@ -55,7 +55,7 @@ Deja de buscar en ese cigarrillo lo que siempre ha estado en ti.
 Te quiere,  
 El niño que te prefiere ante todo.  
 
-P.D. Cuando sea grande, quiero recordarte ti, mamá. Solo a ti.  
+P.D. Cuando sea grande, quiero recordarte a ti, mamá. Solo a ti.  
 
 
 [**Lo quiero**](/purchase/)
