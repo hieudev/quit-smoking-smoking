@@ -35,7 +35,7 @@ Pero en la noche, cuando tu respiración se vuelve un serrucho y la mía lo acom
 
 Así que sigue. Saca otro. Enciéndelo. Yo haré lo mismo. Porque es más fácil prender esta mierda que prender la conversación que nos salvaría. Es más fácil repartir cáncer que repartir la culpa.
 
-Si tú fumas, yo fumo. No por ti. Por la puta costumbre. Por el miedo a quedarme en silencio. Por el terror de descubrir que, si dejamos de remar, quizás el barco no se hunda. Quizás flote. Y entonces, ¿qué cantaríamos?
+Si tú fumas, yo fumo. No por ti. Por la puta costumbre. Por el miedo a quedarme en silencio. Por el terror de descubrir que, si dejamos de remar, quizás el barco no se hunda. Quizás flote.
 
 [**Lo quiero**](/purchase/)
 
