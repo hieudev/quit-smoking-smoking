@@ -35,11 +35,9 @@ Colega, tampoco quiero ser yo.
 
 No quiero convertirme en ese amigo que llega con flores baratas y una sonrisa falsa, mientras mis ojos traicionan el pánico al ver cómo los tubos te atraviesan y las máquinas parpadean monitoreando tu despedida. No quiero aprender a descifrar en una gráfica el descenso imparable de tus números vitales, ni tener que inventar conversaciones triviales mientras por la ventana se cuela un sol que a ti ya no te calienta. Cada visita sería un ensayo de tu funeral, un adiós en cámara lenta donde mi sonrisa se agrieta y tu mirada me suplica en silencio que esto termine pronto.
 
-No quiero que mi último recuerdo de ti sea una losa fría con tu nombre grabado, un pedazo de mármol donde antes estaba tu sonrisa. No quiero aprender el camino hasta tu tumba como quien aprende una ruta de derrota, ni tener que hablar contigo a través de la tierra, sabiendo que solo el viento responde. Ir allí sería rendirme, aceptar que el humo ganó, que te convertiste en polvo mientras yo sigo aquí, con el eco de tu voz y el peso de no haber sabido cómo detenerte a tiempo.
+No quiero que mi último recuerdo de ti sea una losa fría con tu nombre grabado, un pedazo de mármol donde antes estaba tu sonrisa. No quiero aprender el camino hasta tu tumba como quien aprende una ruta de derrota, ni tener que hablar contigo a través de la tierra.
 
 Y no quiero, sobre todo, ser yo el que tenga que recordarte.
-
-Porque cada calada que das no es un acto de libertad, es un clavo en el ataúd que estás construyendo con tus propias manos. Y yo, desde fuera, veo el martillo subir y bajar, impotente.
 
 
 [**Lo quiero**](/purchase/)
