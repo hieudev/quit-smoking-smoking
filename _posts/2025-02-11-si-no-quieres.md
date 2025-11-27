@@ -25,7 +25,7 @@ Mira, primero es querer.
 
 <!--more-->
 
-Mira, primero es querer. Si no quieres, es como cagar pa' dentro. Es imposible.
+Mira, primero es querer. Si no quieres es como cagar pa' dentro. Es imposible.
 
 Querer nace en la oscuridad de nuestro pecho y no se negocia, no se fuerza, no se delega. Es el acuerdo fundamental que firmamos con nosotros mismos antes de que ningún método, ninguna estrategia, ningún consejo externo pueda echar raíces.
 
