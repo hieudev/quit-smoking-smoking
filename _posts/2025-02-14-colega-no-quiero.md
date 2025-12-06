@@ -1,5 +1,5 @@
 ---
-title: "Colega, no quiero que seas tú."
+title: "Colega, no quiero que seas tú"
 nid: "42"
 excerpt_separator: "<!--more-->"
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "Si tú fumas."
+title: "Si tú fumas, yo fumo"
 nid: "42"
 excerpt_separator: "<!--more-->"
 categories:
