@@ -1,5 +1,5 @@
 ---
-title: "No tiene que ser hoy"
+title: "Tiempo hay"
 nid: "12"
 excerpt_separator: "<!--more-->"
 categories:

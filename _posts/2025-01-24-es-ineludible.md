@@ -1,5 +1,5 @@
 ---
-title: "No hay alternativa"
+title: "Es ineludible"
 nid: "24"
 excerpt_separator: "<!--more-->"
 categories:

@@ -35,7 +35,7 @@ Los rituales perduran, aunque cambien de forma. La pausa del café sigue ahí, s
 
 El tabaco no se va. Se queda en los estancos que pasas de largo, en los ceniceros vacíos de tu terraza, en el chasquido de un mechero que ya no es el tuyo. Se convierte en paisaje, en nostalgia sin ansiedad, en huella de lo que fuiste y que ahora eres de otra manera.
 
-Porque esto nunca fue solo sobre dejar de fumar. Fue sobre aprender a estar sin lo que creías indispensable. Sobre descubrir que los rituales valiosos sobreviven a las sustancias. Que lo importante nunca fue realmente el humo, sino todo lo que sucedía alrededor mientras subía hacia el cielo.
+Esto nunca fue solo sobre dejar de fumar. Fue sobre aprender a estar sin lo que creías indispensable. Sobre descubrir que los rituales valiosos sobreviven a las sustancias. Que lo importante nunca fue realmente el humo, sino todo lo que sucedía alrededor mientras subía hacia el cielo.
 
 "No se apaga un hábito de años sin dejar rastro. Pero las cenizas, al final, son solo eso: lo que queda cuando el fuego ya no quema."
 

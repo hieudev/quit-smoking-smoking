@@ -1,5 +1,5 @@
 ---
-title: "No estás solo"
+title: "Siempre hay alguien"
 nid: "23"
 excerpt_separator: "<!--more-->"
 categories:

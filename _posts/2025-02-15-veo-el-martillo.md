@@ -29,12 +29,12 @@ Veo el martillo. Sube y baja con la precisión letal de un reloj que nadie mira 
 
 Tus manos sostienen el martillo. Piensas que sostienen libertad. Pero la libertad no huele a ceniza ni deja huellas amarillas en los dedos. La libertad no necesita excusas al amanecer ni se esconde en balcones solitarios.
 
-Desde aquí, desde mi lado del cristal, el ritual tiene otra forma: veo cómo tejes tu propia prisa hacia la nada. Cómo truecas minutos de vida por segundos de humo. Cómo entregas atardeceres futuros por la inmediata falsa calma que te promete la nicotina.
+Desde aquí, desde mi lado del cristal, el ritual tiene otra forma: veo cómo tejes tu propia prisa hacia la nada. Cómo truecas días de vida por segundos de humo. Cómo entregas atardeceres futuros por la inmediata falsa calma que te promete la nicotina.
 
 Y el martillo sigue. Sube. Baja.  
 Tú respiras hondo.  
 El clavo se hunde.  
-No golpees más.  
+Ya no golpees más.  
 El ataúd ya tiene tu forma.
 
 

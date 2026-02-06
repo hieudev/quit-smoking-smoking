@@ -29,7 +29,7 @@ No es solidaridad. No es amor. Es la simetría perversa de quien ya no sabe dón
 
 Cuando alzas el cigarrillo, no veo tabaco. Veo un puente que une nuestras bocas, un pacto tácito de autodestrucción a dúo. Cada calada es un “estoy aquí”, un “no te dejaré caer solo”, un “si te hundes, me hundo contigo”. Y qué bonito suena, qué romántico, entregar los pulmones a cambio de no sentirnos solos en el naufragio.
 
-Remamos. Sí. Remamos en esta barca podrida, tú en un extremo, yo en el otro, avanzando hacia ninguna parte mientras cantamos nuestra canción de guerra: “mierdaputa”. Y qué bien nos queda el insulto. Qué bien nos sienta la crudeza, como si al hablar sucio pudiéramos limpiar la porquería que nos une.
+Remamos. Sí. Remamos en esta barca podrida, tú en un extremo, yo en el otro, avanzando hacia ninguna parte mientras cantamos nuestra canción de guerra. Y qué bien nos queda el insulto. Qué bien nos sienta la crudeza, como si al hablar sucio pudiéramos limpiar la porquería que nos une.
 
 Pero en la noche, cuando tu respiración se vuelve un serrucho y la mía lo acompaña en eco, lo entendemos: esto no es lealtad. Esto es miedo. Miedo a sanar si el otro sigue enfermo. Miedo a vivir si el otro elige morir. Miedo a ser el traidor que abandona el barco cuando la tormenta arrecia.
 

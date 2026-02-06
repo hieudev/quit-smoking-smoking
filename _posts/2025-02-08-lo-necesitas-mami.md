@@ -1,5 +1,5 @@
 ---
-title: "No lo necesitas"
+title: "Lo necesitas"
 nid: "38"
 excerpt_separator: "<!--more-->"
 categories:
